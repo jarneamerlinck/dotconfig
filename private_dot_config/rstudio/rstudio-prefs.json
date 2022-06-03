@@ -1,0 +1,44 @@
+{
+    "initial_working_directory": "/media/eragon/Storage/vives/3AI/Big data",
+    "editor_theme": "Dracula",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "TabSet2",
+            "Console"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Build",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer"
+        ],
+        "hiddenTabSet": [
+            "Connections",
+            "VCS",
+            "Tutorial"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": false,
+        "additional_source_columns": 0
+    },
+    "default_project_location": "/media/eragon/Storage/vives/3AI/IT Law",
+    "jobs_tab_visibility": "shown",
+    "document_author": "Jarne Amerlinck",
+    "default_encoding": "UTF-8",
+    "source_with_echo": true,
+    "soft_wrap_r_files": true,
+    "shiny_viewer_type": "browser",
+    "shiny_background_jobs": true,
+    "syntax_color_console": true
+}
