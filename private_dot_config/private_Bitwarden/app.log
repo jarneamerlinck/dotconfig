@@ -1,0 +1,1905 @@
+[2022-03-18 08:50:49.702] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarafNPVb/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarafNPVb/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarafNPVb/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarafNPVb/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarafNPVb/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarafNPVb/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-18 08:50:59.239] [info]  Checking for update
+[2022-03-18 08:50:59.256] [info]  Generated new staging user ID: 061635f3-038c-5e7e-96b4-c1419051a32d
+[2022-03-18 08:50:59.615] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-18 08:52:29.376] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar153lZy/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar153lZy/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar153lZy/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar153lZy/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar153lZy/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar153lZy/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-18 08:54:08.145] [info]  Checking for update
+[2022-03-18 08:54:08.714] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarrxbWyz/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarrxbWyz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarrxbWyz/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarrxbWyz/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarrxbWyz/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarrxbWyz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-18 08:54:20.081] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarT6EB1c/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarT6EB1c/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarT6EB1c/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarT6EB1c/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarT6EB1c/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarT6EB1c/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-18 08:55:32.105] [info]  Checking for update
+[2022-03-18 08:55:32.522] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-18 17:43:42.578] [info]  Checking for update
+[2022-03-18 17:43:43.241] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-18 20:49:19.063] [info]  Checking for update
+[2022-03-18 20:49:19.530] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-18 23:48:25.768] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarUD7Xke/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarUD7Xke/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarUD7Xke/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarUD7Xke/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarUD7Xke/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarUD7Xke/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-19 09:54:47.365] [info]  Checking for update
+[2022-03-19 09:54:47.730] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-19 21:54:42.421] [info]  Checking for update
+[2022-03-19 21:54:43.130] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-20 09:20:04.175] [info]  Checking for update
+[2022-03-20 09:20:04.620] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-20 11:48:57.566] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarplzdr9/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarplzdr9/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarplzdr9/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarplzdr9/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarplzdr9/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarplzdr9/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-20 18:11:33.429] [info]  Checking for update
+[2022-03-20 18:11:33.888] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-20 23:12:12.230] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZIqpVM/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZIqpVM/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarZIqpVM/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarZIqpVM/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZIqpVM/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZIqpVM/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-21 08:46:04.255] [info]  Checking for update
+[2022-03-21 08:46:04.266] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-21 08:47:18.656] [info]  Checking for update
+[2022-03-21 08:47:18.677] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-21 09:38:42.476] [info]  Checking for update
+[2022-03-21 09:38:42.932] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 09:39:03.870] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarlLP8co/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarlLP8co/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarlLP8co/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarlLP8co/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarlLP8co/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarlLP8co/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-21 09:47:31.657] [info]  Checking for update
+[2022-03-21 09:47:32.074] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 10:22:18.855] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarXy95Ho/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarXy95Ho/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarXy95Ho/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarXy95Ho/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarXy95Ho/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarXy95Ho/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-21 12:06:21.265] [info]  Checking for update
+[2022-03-21 12:06:21.969] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 12:06:22.407] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarRjOW2C/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarRjOW2C/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarRjOW2C/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarRjOW2C/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarRjOW2C/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarRjOW2C/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-21 12:07:07.673] [info]  Checking for update
+[2022-03-21 12:07:07.979] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 12:07:10.558] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarbZeOXE/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarbZeOXE/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarbZeOXE/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarbZeOXE/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarbZeOXE/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarbZeOXE/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-21 12:08:06.985] [info]  Checking for update
+[2022-03-21 12:08:07.363] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 12:09:22.505] [info]  Checking for update
+[2022-03-21 12:09:22.921] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 12:09:36.625] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar3Vjy6Y/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar3Vjy6Y/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar3Vjy6Y/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar3Vjy6Y/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar3Vjy6Y/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar3Vjy6Y/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-21 13:04:37.810] [info]  Checking for update
+[2022-03-21 13:04:38.558] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 14:05:35.243] [info]  Checking for update
+[2022-03-21 14:05:35.800] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 15:07:15.486] [info]  Checking for update
+[2022-03-21 15:07:16.101] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-21 15:55:03.226] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwartx1Akg/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwartx1Akg/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwartx1Akg/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwartx1Akg/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwartx1Akg/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwartx1Akg/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-21 17:33:36.031] [info]  Checking for update
+[2022-03-21 17:33:36.057] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-21 17:36:05.189] [info]  Checking for update
+[2022-03-21 17:36:05.201] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-21 23:43:28.593] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarx48ATJ/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarx48ATJ/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarx48ATJ/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarx48ATJ/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarx48ATJ/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarx48ATJ/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-22 09:57:51.683] [info]  Checking for update
+[2022-03-22 09:57:52.098] [info]  Update for version 1.32.0 is not available (latest version: 1.32.0, downgrade is disallowed).
+[2022-03-22 21:57:46.724] [info]  Checking for update
+[2022-03-22 21:57:47.467] [info]  Found version 1.32.1 (url: Bitwarden-1.32.1-x86_64.AppImage)
+[2022-03-22 21:57:47.471] [info]  Downloading update from Bitwarden-1.32.1-x86_64.AppImage
+[2022-03-22 21:57:54.673] [info]  File has 22 changed blocks
+[2022-03-22 21:57:54.720] [info]  Full: 103,149.12 KB, To download: 448.26 KB (0%)
+[2022-03-22 21:57:54.728] [info]  Differential download: https://github.com/bitwarden/desktop/releases/download/v1.32.1/Bitwarden-1.32.1-x86_64.AppImage
+[2022-03-22 21:57:54.751] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/76930145/6f341932-030c-4031-852b-7412d4e977b7
+[2022-03-22 21:57:55.880] [info]  New version 1.32.1 has been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-1.32.1-x86_64.AppImage
+[2022-03-22 21:58:00.342] [info]  Install on explicit quitAndInstall
+[2022-03-22 21:58:00.342] [info]  Install: isSilent: false, isForceRunAfter: true, installPathRequiresElevation: false
+[2022-03-22 21:58:00.353] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:17647:14)
+    at AppImageUpdater.install (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:18312:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:18263:34)
+    at UpdaterMain.<anonymous> (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52420:38)
+    at Generator.next (<anonymous>)
+    at fulfilled (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52325:58)
+[2022-03-22 23:09:22.006] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-22 23:09:22.028] [info]  Auto install update on quit
+[2022-03-22 23:09:22.028] [info]  Install: isSilent: true, isForceRunAfter: false, installPathRequiresElevation: false
+[2022-03-22 23:09:22.030] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:17647:14)
+    at AppImageUpdater.install (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:18312:25)
+    at /tmp/.mount_Bitware96aNz/resources/app.asar/main.js:18343:18
+    at App.<anonymous> (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:18567:48)
+    at Object.onceWrapper (node:events:514:26)
+    at App.emit (node:events:406:35)
+    at App.<anonymous> (/tmp/.mount_Bitware96aNz/resources/app.asar/main.js:52536:48)
+    at App.emit (node:events:406:35)
+[2022-03-23 18:19:30.950] [info]  Checking for update
+[2022-03-23 18:19:31.418] [info]  Found version 1.32.1 (url: Bitwarden-1.32.1-x86_64.AppImage)
+[2022-03-23 18:19:31.419] [info]  Downloading update from Bitwarden-1.32.1-x86_64.AppImage
+[2022-03-23 18:19:31.741] [info]  Update has already been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-1.32.1-x86_64.AppImage).
+[2022-03-23 17:19:43.493] [info]  Install on explicit quitAndInstall
+[2022-03-23 17:19:43.494] [info]  Install: isSilent: false, isForceRunAfter: true, installPathRequiresElevation: false
+[2022-03-23 17:19:43.503] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_BitwarpNvvPY/resources/app.asar/main.js:17647:14)
+    at AppImageUpdater.install (/tmp/.mount_BitwarpNvvPY/resources/app.asar/main.js:18312:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_BitwarpNvvPY/resources/app.asar/main.js:18263:34)
+    at UpdaterMain.<anonymous> (/tmp/.mount_BitwarpNvvPY/resources/app.asar/main.js:52420:38)
+    at Generator.next (<anonymous>)
+    at fulfilled (/tmp/.mount_BitwarpNvvPY/resources/app.asar/main.js:52325:58)
+[2022-03-23 22:40:45.301] [info]  Checking for update
+[2022-03-23 22:40:46.060] [info]  Found version 1.32.1 (url: Bitwarden-1.32.1-x86_64.AppImage)
+[2022-03-23 22:40:46.060] [info]  Downloading update from Bitwarden-1.32.1-x86_64.AppImage
+[2022-03-23 22:40:46.540] [info]  Update has already been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-1.32.1-x86_64.AppImage).
+[2022-03-23 22:40:54.940] [info]  Install on explicit quitAndInstall
+[2022-03-23 22:40:54.941] [info]  Install: isSilent: false, isForceRunAfter: true, installPathRequiresElevation: false
+[2022-03-23 22:40:54.947] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_BitwarJu5VhF/resources/app.asar/main.js:17647:14)
+    at AppImageUpdater.install (/tmp/.mount_BitwarJu5VhF/resources/app.asar/main.js:18312:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_BitwarJu5VhF/resources/app.asar/main.js:18263:34)
+    at UpdaterMain.<anonymous> (/tmp/.mount_BitwarJu5VhF/resources/app.asar/main.js:52420:38)
+    at Generator.next (<anonymous>)
+    at fulfilled (/tmp/.mount_BitwarJu5VhF/resources/app.asar/main.js:52325:58)
+[2022-03-24 10:59:31.340] [info]  Checking for update
+[2022-03-24 10:59:32.666] [info]  Found version 1.32.1 (url: Bitwarden-1.32.1-x86_64.AppImage)
+[2022-03-24 10:59:32.666] [info]  Downloading update from Bitwarden-1.32.1-x86_64.AppImage
+[2022-03-24 10:59:32.983] [info]  Update has already been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-1.32.1-x86_64.AppImage).
+[2022-03-24 11:00:50.370] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-24 11:00:50.376] [info]  Auto install update on quit
+[2022-03-24 11:00:50.376] [info]  Install: isSilent: true, isForceRunAfter: false, installPathRequiresElevation: false
+[2022-03-24 11:00:50.377] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:17647:14)
+    at AppImageUpdater.install (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:18312:25)
+    at /tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:18343:18
+    at App.<anonymous> (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:18567:48)
+    at Object.onceWrapper (node:events:514:26)
+    at App.emit (node:events:406:35)
+    at App.<anonymous> (/tmp/.mount_Bitwarmurfjr/resources/app.asar/main.js:52536:48)
+    at App.emit (node:events:406:35)
+[2022-03-24 11:01:48.617] [info]  Checking for update
+[2022-03-24 11:01:49.086] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-24 18:49:55.993] [info]  Checking for update
+[2022-03-24 18:49:56.392] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-25 08:43:12.956] [info]  Checking for update
+[2022-03-25 08:43:12.976] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-25 08:44:55.331] [info]  Checking for update
+[2022-03-25 08:44:55.351] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-25 08:44:59.895] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarEXgQrf/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarEXgQrf/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarEXgQrf/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarEXgQrf/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarEXgQrf/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarEXgQrf/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-25 16:30:04.886] [info]  Checking for update
+[2022-03-25 16:30:05.742] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-25 16:32:16.540] [info]  Checking for update
+[2022-03-25 16:32:16.978] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-26 09:18:22.193] [info]  Checking for update
+[2022-03-26 09:18:23.104] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-26 19:11:44.892] [info]  Checking for update
+[2022-03-26 19:11:45.540] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-26 19:13:52.491] [info]  Checking for update
+[2022-03-26 19:13:53.216] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-26 19:15:30.936] [info]  Checking for update
+[2022-03-26 19:15:31.434] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-27 10:29:37.430] [info]  Checking for update
+[2022-03-27 10:29:38.064] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-27 22:12:49.675] [info]  Checking for update
+[2022-03-27 22:12:50.058] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-27 23:33:40.241] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar7BG646/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar7BG646/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar7BG646/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar7BG646/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar7BG646/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar7BG646/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-28 08:47:48.594] [info]  Checking for update
+[2022-03-28 08:47:48.606] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-28 08:49:29.813] [info]  Checking for update
+[2022-03-28 08:49:30.666] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-28 10:59:23.078] [info]  Checking for update
+[2022-03-28 10:59:24.049] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-28 12:55:54.079] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZiP5TH/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZiP5TH/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarZiP5TH/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarZiP5TH/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZiP5TH/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZiP5TH/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-28 15:31:54.035] [info]  Checking for update
+[2022-03-28 15:31:54.573] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-28 15:39:43.038] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwariTEUvi/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwariTEUvi/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwariTEUvi/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwariTEUvi/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwariTEUvi/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwariTEUvi/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-28 17:11:51.900] [info]  Checking for update
+[2022-03-28 17:11:53.584] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-28 17:48:49.592] [info]  Checking for update
+[2022-03-28 17:48:49.603] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-29 08:43:06.721] [info]  Checking for update
+[2022-03-29 08:43:06.738] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-29 10:23:44.515] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHQOUde/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHQOUde/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarHQOUde/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarHQOUde/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHQOUde/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHQOUde/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-29 15:12:52.966] [info]  Checking for update
+[2022-03-29 15:12:53.577] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-29 19:29:49.170] [info]  Checking for update
+[2022-03-29 19:29:51.529] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-29 19:31:23.447] [info]  Checking for update
+[2022-03-29 19:31:24.333] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-30 19:47:58.898] [info]  Checking for update
+[2022-03-30 19:47:59.353] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-31 08:39:27.895] [info]  Checking for update
+[2022-03-31 08:39:27.951] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-03-31 09:09:52.676] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitward3ZzYD/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitward3ZzYD/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitward3ZzYD/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitward3ZzYD/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitward3ZzYD/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitward3ZzYD/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-31 19:01:32.979] [info]  Checking for update
+[2022-03-31 19:01:34.215] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-31 19:03:08.343] [info]  Checking for update
+[2022-03-31 19:03:08.706] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-03-31 20:25:25.989] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarnCwOg6/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarnCwOg6/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarnCwOg6/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarnCwOg6/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarnCwOg6/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarnCwOg6/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-03-31 20:38:58.833] [info]  Checking for update
+[2022-03-31 20:38:59.384] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-01 10:32:54.718] [info]  Checking for update
+[2022-04-01 10:32:54.729] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-01 10:45:49.554] [info]  Checking for update
+[2022-04-01 10:45:50.061] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-01 18:23:58.137] [info]  Checking for update
+[2022-04-01 18:23:58.150] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-01 21:23:08.333] [info]  Checking for update
+[2022-04-01 21:23:08.838] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-01 21:44:37.144] [info]  Checking for update
+[2022-04-01 21:44:37.640] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-01 21:50:25.113] [info]  Checking for update
+[2022-04-01 21:50:25.778] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-01 22:42:52.645] [info]  Checking for update
+[2022-04-01 22:42:53.120] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-02 09:16:41.770] [info]  Checking for update
+[2022-04-02 09:16:42.212] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-02 20:35:12.415] [info]  Checking for update
+[2022-04-02 20:35:13.007] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-03 16:01:49.653] [info]  Checking for update
+[2022-04-03 16:01:50.094] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-03 18:13:55.933] [info]  Checking for update
+[2022-04-03 18:13:55.962] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-03 18:15:31.413] [info]  Checking for update
+[2022-04-03 18:15:31.427] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-03 21:42:41.505] [info]  Checking for update
+[2022-04-03 21:42:42.149] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-03 21:53:25.808] [info]  Checking for update
+[2022-04-03 21:53:26.241] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-04 00:32:50.452] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar9Pbumc/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar9Pbumc/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar9Pbumc/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar9Pbumc/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar9Pbumc/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar9Pbumc/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-04 09:46:20.999] [info]  Checking for update
+[2022-04-04 09:46:21.737] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-04 16:58:04.004] [info]  Checking for update
+[2022-04-04 16:58:04.420] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-04 18:26:02.631] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarwT7agO/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarwT7agO/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarwT7agO/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarwT7agO/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarwT7agO/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarwT7agO/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-05 08:39:41.285] [info]  Checking for update
+[2022-04-05 08:39:41.295] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-05 08:40:49.474] [info]  Checking for update
+[2022-04-05 08:40:49.499] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-05 20:33:04.661] [info]  Checking for update
+[2022-04-05 20:33:05.224] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-05 20:34:51.105] [info]  Checking for update
+[2022-04-05 20:34:51.462] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-06 09:34:25.048] [info]  Checking for update
+[2022-04-06 09:34:26.338] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-06 11:11:12.983] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarssO1tz/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarssO1tz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarssO1tz/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarssO1tz/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarssO1tz/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarssO1tz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-06 22:37:39.539] [info]  Checking for update
+[2022-04-06 22:37:40.014] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-06 23:47:50.180] [info]  Checking for update
+[2022-04-06 23:47:50.192] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-07 09:00:49.193] [info]  Checking for update
+[2022-04-07 09:00:49.207] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-07 19:15:40.140] [info]  Checking for update
+[2022-04-07 19:15:40.173] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-07 19:23:24.129] [info]  Checking for update
+[2022-04-07 19:23:24.139] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-08 00:14:07.801] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarJ7MdUD/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarJ7MdUD/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarJ7MdUD/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarJ7MdUD/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarJ7MdUD/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarJ7MdUD/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-08 10:25:10.230] [info]  Checking for update
+[2022-04-08 10:25:10.763] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-08 13:17:13.468] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarzE9ytX/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarzE9ytX/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarzE9ytX/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarzE9ytX/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarzE9ytX/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarzE9ytX/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-08 15:36:48.132] [info]  Checking for update
+[2022-04-08 15:36:48.632] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-08 20:12:09.960] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZniJx5/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZniJx5/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarZniJx5/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarZniJx5/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZniJx5/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZniJx5/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-09 09:28:10.255] [info]  Checking for update
+[2022-04-09 09:28:10.753] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-09 21:28:05.299] [info]  Checking for update
+[2022-04-09 21:28:05.961] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-10 09:29:07.332] [info]  Checking for update
+[2022-04-10 09:29:07.890] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-10 14:43:53.065] [info]  Checking for update
+[2022-04-10 14:43:53.510] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-10 17:53:31.952] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarX5giuW/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarX5giuW/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarX5giuW/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarX5giuW/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarX5giuW/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarX5giuW/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-10 22:44:32.268] [info]  Checking for update
+[2022-04-10 22:44:32.293] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-11 10:19:49.085] [info]  Checking for update
+[2022-04-11 10:19:49.096] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-11 19:22:32.880] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarjalmll/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarjalmll/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarjalmll/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarjalmll/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarjalmll/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarjalmll/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-11 23:18:50.542] [info]  Checking for update
+[2022-04-11 23:18:50.552] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-11 23:21:17.976] [info]  Checking for update
+[2022-04-11 23:21:17.996] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-12 08:43:30.796] [info]  Checking for update
+[2022-04-12 08:43:30.827] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-12 22:57:34.086] [info]  Checking for update
+[2022-04-12 22:57:36.363] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-12 23:07:02.502] [info]  Checking for update
+[2022-04-12 23:07:03.025] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-12 23:07:05.369] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar19ampc/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar19ampc/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar19ampc/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar19ampc/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar19ampc/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar19ampc/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-12 23:08:32.627] [info]  Checking for update
+[2022-04-12 23:08:32.639] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-12 23:08:41.032] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarzcIWDA/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarzcIWDA/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarzcIWDA/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarzcIWDA/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarzcIWDA/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarzcIWDA/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-12 23:10:09.555] [info]  Checking for update
+[2022-04-12 23:10:09.943] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-13 00:03:28.624] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarXR1i2W/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarXR1i2W/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarXR1i2W/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarXR1i2W/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarXR1i2W/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarXR1i2W/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-13 08:34:48.081] [info]  Checking for update
+[2022-04-13 08:34:48.829] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-13 09:42:01.918] [info]  Checking for update
+[2022-04-13 09:42:02.319] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-13 16:03:49.828] [info]  Checking for update
+[2022-04-13 16:03:50.251] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-13 23:12:57.543] [info]  Checking for update
+[2022-04-13 23:12:58.124] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-14 08:52:13.936] [info]  Checking for update
+[2022-04-14 08:52:13.963] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-14 14:59:53.088] [info]  Checking for update
+[2022-04-14 14:59:53.621] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-14 18:38:27.658] [info]  Checking for update
+[2022-04-14 18:38:28.223] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-14 18:38:33.600] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHWBfXW/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHWBfXW/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarHWBfXW/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarHWBfXW/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHWBfXW/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHWBfXW/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-14 18:41:17.881] [info]  Checking for update
+[2022-04-14 18:41:17.891] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-14 23:39:59.681] [info]  Checking for update
+[2022-04-14 23:40:00.249] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-15 12:13:33.711] [info]  Checking for update
+[2022-04-15 12:13:34.270] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-15 17:51:55.290] [info]  Checking for update
+[2022-04-15 17:51:56.054] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-15 18:07:36.787] [info]  Checking for update
+[2022-04-15 18:07:37.259] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-15 18:17:32.854] [info]  Checking for update
+[2022-04-15 18:17:33.333] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-15 18:29:18.001] [info]  Checking for update
+[2022-04-15 18:29:18.461] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-16 09:16:52.546] [info]  Checking for update
+[2022-04-16 09:16:52.949] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-16 11:05:59.286] [info]  Checking for update
+[2022-04-16 11:05:59.733] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-16 23:05:54.343] [info]  Checking for update
+[2022-04-16 23:05:54.794] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-17 00:14:27.459] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwardFBXWI/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwardFBXWI/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwardFBXWI/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwardFBXWI/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwardFBXWI/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwardFBXWI/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-17 09:50:50.934] [info]  Checking for update
+[2022-04-17 09:50:51.670] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-17 11:10:23.251] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwargAX5JY/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwargAX5JY/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwargAX5JY/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwargAX5JY/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwargAX5JY/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwargAX5JY/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-17 12:13:57.040] [info]  Checking for update
+[2022-04-17 12:13:57.052] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-17 12:54:14.964] [info]  Checking for update
+[2022-04-17 12:54:16.553] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-17 15:09:58.344] [info]  Checking for update
+[2022-04-17 15:10:06.803] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-17 15:17:25.436] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarlUHeK2/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarlUHeK2/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarlUHeK2/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarlUHeK2/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarlUHeK2/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarlUHeK2/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-17 15:17:43.161] [info]  Checking for update
+[2022-04-17 15:18:03.281] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-17 15:25:03.597] [info]  Checking for update
+[2022-04-17 15:25:30.188] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-17 16:45:30.738] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarpWEiJc/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarpWEiJc/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarpWEiJc/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarpWEiJc/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarpWEiJc/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarpWEiJc/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-17 18:37:58.505] [info]  Checking for update
+[2022-04-17 18:37:59.020] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-18 09:28:52.356] [info]  Checking for update
+[2022-04-18 09:28:52.911] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-18 21:28:46.499] [info]  Checking for update
+[2022-04-18 21:28:47.132] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-18 23:42:21.128] [info]  Checking for update
+[2022-04-18 23:42:23.214] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-19 09:03:40.858] [info]  Checking for update
+[2022-04-19 09:03:40.869] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-19 14:59:23.243] [info]  Checking for update
+[2022-04-19 14:59:23.983] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-19 18:28:51.135] [info]  Checking for update
+[2022-04-19 18:28:51.839] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-19 18:29:07.063] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZ5GiRZ/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZ5GiRZ/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarZ5GiRZ/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarZ5GiRZ/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarZ5GiRZ/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarZ5GiRZ/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-19 19:28:35.599] [info]  Checking for update
+[2022-04-19 19:28:36.052] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-19 23:56:42.273] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarD4zv1B/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarD4zv1B/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarD4zv1B/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarD4zv1B/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarD4zv1B/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarD4zv1B/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-20 14:29:40.774] [info]  Checking for update
+[2022-04-20 14:29:40.784] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-20 15:03:58.749] [info]  Checking for update
+[2022-04-20 15:04:00.891] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-20 15:20:26.488] [info]  Checking for update
+[2022-04-20 15:20:26.988] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-20 22:16:06.809] [info]  Checking for update
+[2022-04-20 22:16:07.500] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-20 23:36:38.505] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwaruL40Uj/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwaruL40Uj/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwaruL40Uj/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwaruL40Uj/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwaruL40Uj/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwaruL40Uj/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-20 23:41:03.342] [info]  Checking for update
+[2022-04-20 23:41:03.730] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-21 09:20:31.769] [info]  Checking for update
+[2022-04-21 09:20:31.779] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-21 10:09:51.431] [info]  Checking for update
+[2022-04-21 10:09:52.055] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-21 10:19:41.202] [info]  Checking for update
+[2022-04-21 10:19:42.098] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-21 10:42:42.182] [info]  Checking for update
+[2022-04-21 10:42:42.925] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-21 17:05:30.380] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarnXOrSJ/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarnXOrSJ/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarnXOrSJ/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarnXOrSJ/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarnXOrSJ/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarnXOrSJ/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-21 18:53:19.132] [info]  Checking for update
+[2022-04-21 18:53:19.729] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-21 18:57:16.067] [info]  Checking for update
+[2022-04-21 18:57:16.635] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-21 20:44:49.404] [info]  Checking for update
+[2022-04-21 20:44:50.091] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-21 23:35:52.163] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarIeSOJ9/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarIeSOJ9/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarIeSOJ9/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarIeSOJ9/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarIeSOJ9/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarIeSOJ9/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-22 07:55:42.636] [info]  Checking for update
+[2022-04-22 07:55:43.074] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-22 10:02:54.732] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitware6gQMz/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitware6gQMz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitware6gQMz/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitware6gQMz/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitware6gQMz/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitware6gQMz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-22 18:18:19.825] [info]  Checking for update
+[2022-04-22 18:18:20.271] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-23 00:16:25.824] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar8so95B/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar8so95B/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar8so95B/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar8so95B/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar8so95B/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar8so95B/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-23 09:24:14.088] [info]  Checking for update
+[2022-04-23 09:24:15.302] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-23 21:24:09.135] [info]  Checking for update
+[2022-04-23 21:24:09.869] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-24 09:42:14.383] [info]  Checking for update
+[2022-04-24 09:42:15.351] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-24 10:37:48.045] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarv315Td/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarv315Td/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarv315Td/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarv315Td/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarv315Td/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarv315Td/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-24 22:21:42.369] [info]  Checking for update
+[2022-04-24 22:21:43.007] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-25 08:41:27.805] [info]  Checking for update
+[2022-04-25 08:41:27.817] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-25 08:44:01.300] [info]  Checking for update
+[2022-04-25 08:44:01.310] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-25 10:59:10.221] [info]  Checking for update
+[2022-04-25 10:59:11.057] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-25 11:00:42.742] [info]  Checking for update
+[2022-04-25 11:00:43.062] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-25 13:38:42.860] [info]  Checking for update
+[2022-04-25 13:38:43.523] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-25 13:40:16.414] [info]  Checking for update
+[2022-04-25 13:40:16.990] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-25 15:40:26.153] [info]  Checking for update
+[2022-04-25 15:40:26.644] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-25 17:50:26.579] [info]  Checking for update
+[2022-04-25 17:50:26.592] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-25 17:50:37.690] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarjrkhFT/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarjrkhFT/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarjrkhFT/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarjrkhFT/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarjrkhFT/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarjrkhFT/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-25 17:52:11.582] [info]  Checking for update
+[2022-04-25 17:52:12.085] [info]  Update for version 1.32.1 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-04-25 23:50:41.127] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwaru1yBYf/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwaru1yBYf/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwaru1yBYf/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwaru1yBYf/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwaru1yBYf/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwaru1yBYf/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-25 23:52:14.335] [info]  Checking for update
+[2022-04-25 23:52:15.020] [info]  Found version 1.33.0 (url: Bitwarden-1.33.0-x86_64.AppImage)
+[2022-04-25 23:52:15.021] [info]  Downloading update from Bitwarden-1.33.0-x86_64.AppImage
+[2022-04-25 23:52:15.030] [info]  Cached update sha512 checksum doesn't match the latest available update. New update must be downloaded. Cached: xpJwHbY7nlw/GOiSaA5wpNlCdTV4OLVTiBwfV80qy84tSt4Kzrg+sUsgLWitgaAGHII5/lYCHXDHTq1mW6l9lQ==, expected: kRH8prW3kAf+gIJ/5f0aRoMuF+K5c8y2N1OCTyKIiYu3qhFQB1+ndwaztOnR7G6sBZCbVEFnhdIWcJMBtSrMnQ==. Directory for cached update will be cleaned
+[2022-04-25 23:52:17.664] [info]  File has 3557 changed blocks
+[2022-04-25 23:52:17.689] [info]  Full: 88,212.84 KB, To download: 73,111.11 KB (83%)
+[2022-04-25 23:52:17.690] [info]  Differential download: https://github.com/bitwarden/desktop/releases/download/v1.33.0/Bitwarden-1.33.0-x86_64.AppImage
+[2022-04-25 23:52:17.721] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/76930145/cb813d1b-7169-4c4f-b49b-dd0bd50c376e
+[2022-04-25 23:52:28.422] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwareiQcNz/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwareiQcNz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwareiQcNz/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwareiQcNz/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwareiQcNz/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwareiQcNz/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-26 09:15:19.313] [info]  Checking for update
+[2022-04-26 09:15:19.875] [info]  Found version 1.33.0 (url: Bitwarden-1.33.0-x86_64.AppImage)
+[2022-04-26 09:15:19.876] [info]  Downloading update from Bitwarden-1.33.0-x86_64.AppImage
+[2022-04-26 09:15:24.308] [info]  File has 3557 changed blocks
+[2022-04-26 09:15:24.340] [info]  Full: 88,212.84 KB, To download: 73,111.11 KB (83%)
+[2022-04-26 09:15:24.342] [info]  Differential download: https://github.com/bitwarden/desktop/releases/download/v1.33.0/Bitwarden-1.33.0-x86_64.AppImage
+[2022-04-26 09:15:24.372] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/76930145/cb813d1b-7169-4c4f-b49b-dd0bd50c376e
+[2022-04-26 09:15:37.751] [info]  New version 1.33.0 has been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-1.33.0-x86_64.AppImage
+[2022-04-26 09:15:40.185] [info]  Install on explicit quitAndInstall
+[2022-04-26 09:15:40.186] [info]  Install: isSilent: false, isForceRunAfter: true, installPathRequiresElevation: false
+[2022-04-26 09:15:40.192] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_BitwarrNi6tX/resources/app.asar/main.js:17647:14)
+    at AppImageUpdater.install (/tmp/.mount_BitwarrNi6tX/resources/app.asar/main.js:18312:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_BitwarrNi6tX/resources/app.asar/main.js:18263:34)
+    at UpdaterMain.<anonymous> (/tmp/.mount_BitwarrNi6tX/resources/app.asar/main.js:52420:38)
+    at Generator.next (<anonymous>)
+    at fulfilled (/tmp/.mount_BitwarrNi6tX/resources/app.asar/main.js:52325:58)
+[2022-04-26 18:29:47.809] [info]  Checking for update
+[2022-04-26 18:29:54.330] [info]  Found version 1.33.0 (url: Bitwarden-1.33.0-x86_64.AppImage)
+[2022-04-26 18:29:54.330] [info]  Downloading update from Bitwarden-1.33.0-x86_64.AppImage
+[2022-04-26 18:29:54.546] [info]  Update has already been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-1.33.0-x86_64.AppImage).
+[2022-04-26 18:32:03.733] [info]  Checking for update
+[2022-04-26 18:32:04.883] [info]  Found version 1.33.0 (url: Bitwarden-1.33.0-x86_64.AppImage)
+[2022-04-26 18:32:04.883] [info]  Downloading update from Bitwarden-1.33.0-x86_64.AppImage
+[2022-04-26 18:32:05.178] [info]  Update has already been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-1.33.0-x86_64.AppImage).
+[2022-04-26 18:33:33.525] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:52653:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:52463:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:52648:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:52602:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:52467:71
+    at new Promise (<anonymous>)
+[2022-04-26 18:33:33.529] [info]  Auto install update on quit
+[2022-04-26 18:33:33.529] [info]  Install: isSilent: true, isForceRunAfter: false, installPathRequiresElevation: false
+[2022-04-26 18:33:33.530] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:17647:14)
+    at AppImageUpdater.install (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:18312:25)
+    at /tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:18343:18
+    at App.<anonymous> (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:18567:48)
+    at Object.onceWrapper (node:events:514:26)
+    at App.emit (node:events:406:35)
+    at App.<anonymous> (/tmp/.mount_BitwarPdg8al/resources/app.asar/main.js:52536:48)
+    at App.emit (node:events:406:35)
+[2022-04-26 18:36:42.775] [info]  Checking for update
+[2022-04-26 18:36:43.437] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-26 20:01:46.589] [info]  Checking for update
+[2022-04-26 20:01:46.601] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-26 20:01:58.868] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarawmJET/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarawmJET/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarawmJET/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarawmJET/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarawmJET/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarawmJET/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-26 21:03:21.902] [info]  Checking for update
+[2022-04-26 21:03:22.439] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-26 21:15:50.763] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwaru7n8FV/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwaru7n8FV/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwaru7n8FV/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwaru7n8FV/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwaru7n8FV/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwaru7n8FV/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-26 21:16:30.409] [info]  Checking for update
+[2022-04-26 21:16:30.905] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-26 23:17:17.639] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarKMUVdw/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarKMUVdw/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarKMUVdw/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarKMUVdw/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarKMUVdw/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarKMUVdw/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-27 16:41:38.799] [info]  Checking for update
+[2022-04-27 16:41:39.665] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-27 20:22:24.344] [info]  Checking for update
+[2022-04-27 20:22:24.863] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-27 23:26:35.201] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar1FTi0y/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar1FTi0y/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar1FTi0y/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar1FTi0y/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar1FTi0y/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar1FTi0y/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-27 23:32:04.532] [info]  Checking for update
+[2022-04-27 23:32:05.545] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-28 08:50:57.978] [info]  Checking for update
+[2022-04-28 08:50:58.002] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-28 18:32:12.680] [info]  Checking for update
+[2022-04-28 18:32:13.526] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-28 18:32:18.551] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar1pyLGQ/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar1pyLGQ/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar1pyLGQ/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar1pyLGQ/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar1pyLGQ/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar1pyLGQ/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-28 18:33:46.762] [info]  Checking for update
+[2022-04-28 18:33:46.773] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-28 20:01:46.751] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHjrWaM/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHjrWaM/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarHjrWaM/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarHjrWaM/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarHjrWaM/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarHjrWaM/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-29 17:11:31.561] [info]  Checking for update
+[2022-04-29 17:11:32.003] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-04-29 16:01:16.771] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwaribF2Gv/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwaribF2Gv/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwaribF2Gv/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwaribF2Gv/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwaribF2Gv/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwaribF2Gv/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-29 18:15:58.394] [info]  Checking for update
+[2022-04-29 18:15:58.421] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-04-30 00:23:08.559] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarVdRBrp/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarVdRBrp/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarVdRBrp/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarVdRBrp/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarVdRBrp/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarVdRBrp/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-04-30 17:05:23.131] [info]  Checking for update
+[2022-04-30 17:05:23.512] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-01 09:20:42.682] [info]  Checking for update
+[2022-05-01 09:20:43.136] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-01 12:39:54.010] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarIJ5DND/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarIJ5DND/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarIJ5DND/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarIJ5DND/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarIJ5DND/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarIJ5DND/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-01 17:21:00.518] [info]  Checking for update
+[2022-05-01 17:21:00.978] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-01 22:06:18.595] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarARtuF8/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarARtuF8/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarARtuF8/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarARtuF8/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarARtuF8/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarARtuF8/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-02 08:38:56.637] [info]  Checking for update
+[2022-05-02 08:38:56.663] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-02 08:39:03.069] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar2ruDKv/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar2ruDKv/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar2ruDKv/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar2ruDKv/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar2ruDKv/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar2ruDKv/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-02 08:39:50.924] [info]  Checking for update
+[2022-05-02 08:39:50.949] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-02 11:01:14.307] [info]  Checking for update
+[2022-05-02 11:01:15.421] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-02 11:02:32.487] [info]  Checking for update
+[2022-05-02 11:02:35.605] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-02 13:01:00.348] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarMif1Gn/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarMif1Gn/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarMif1Gn/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarMif1Gn/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarMif1Gn/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarMif1Gn/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-02 17:42:34.169] [info]  Checking for update
+[2022-05-02 17:42:34.179] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-02 19:26:48.129] [info]  Checking for update
+[2022-05-02 19:26:48.822] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-02 23:06:50.699] [info]  Checking for update
+[2022-05-02 23:06:50.762] [error] Error: Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-02 23:52:42.239] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwara4wvGb/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwara4wvGb/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwara4wvGb/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwara4wvGb/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwara4wvGb/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwara4wvGb/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-03 08:47:57.188] [info]  Checking for update
+[2022-05-03 08:47:57.200] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-03 08:48:09.855] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarWdMlxH/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarWdMlxH/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarWdMlxH/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarWdMlxH/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarWdMlxH/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarWdMlxH/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-03 08:48:56.874] [info]  Checking for update
+[2022-05-03 08:48:56.897] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-03 19:11:11.563] [info]  Checking for update
+[2022-05-03 19:11:12.599] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-03 19:13:35.249] [info]  Checking for update
+[2022-05-03 19:13:35.769] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-03 23:24:27.567] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarfAxOUM/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarfAxOUM/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarfAxOUM/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarfAxOUM/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarfAxOUM/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarfAxOUM/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-04 10:56:18.212] [info]  Checking for update
+[2022-05-04 10:56:18.874] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-04 19:42:23.396] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarzegMBF/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarzegMBF/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarzegMBF/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarzegMBF/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarzegMBF/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarzegMBF/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-04 20:26:30.253] [info]  Checking for update
+[2022-05-04 20:26:30.696] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-04 21:42:59.878] [info]  Checking for update
+[2022-05-04 21:43:00.354] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-04 23:12:53.836] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwartCmsnR/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwartCmsnR/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwartCmsnR/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwartCmsnR/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwartCmsnR/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwartCmsnR/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-04 23:26:04.994] [info]  Checking for update
+[2022-05-04 23:26:05.611] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-05 08:46:11.112] [info]  Checking for update
+[2022-05-05 08:46:11.771] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-05 09:54:35.767] [info]  Checking for update
+[2022-05-05 09:54:36.470] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-05 10:23:21.500] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarnwavQx/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarnwavQx/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarnwavQx/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarnwavQx/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarnwavQx/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarnwavQx/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-05 10:24:29.103] [info]  Checking for update
+[2022-05-05 10:24:29.607] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-05 20:14:25.053] [info]  Checking for update
+[2022-05-05 20:14:25.069] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-05 18:16:16.876] [info]  Checking for update
+[2022-05-05 18:16:17.358] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-06 08:45:31.665] [info]  Checking for update
+[2022-05-06 08:45:31.686] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-06 08:45:31.909] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar7HGbgo/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar7HGbgo/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwar7HGbgo/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwar7HGbgo/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwar7HGbgo/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwar7HGbgo/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-06 08:46:14.684] [info]  Checking for update
+[2022-05-06 08:46:14.694] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-06 09:45:35.341] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarTOXJfh/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarTOXJfh/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarTOXJfh/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarTOXJfh/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarTOXJfh/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarTOXJfh/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-06 18:15:06.179] [info]  Checking for update
+[2022-05-06 18:15:06.190] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-06 18:15:09.626] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarv3rn0x/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarv3rn0x/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarv3rn0x/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarv3rn0x/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarv3rn0x/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarv3rn0x/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-06 18:16:13.770] [info]  Checking for update
+[2022-05-06 18:16:13.788] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-06 23:52:56.914] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarQcz6VH/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarQcz6VH/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarQcz6VH/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarQcz6VH/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarQcz6VH/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarQcz6VH/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-07 12:29:09.962] [info]  Checking for update
+[2022-05-07 12:29:10.504] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-07 19:00:01.519] [info]  Checking for update
+[2022-05-07 19:00:02.311] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-08 14:30:02.953] [info]  Checking for update
+[2022-05-08 14:30:03.397] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-08 22:04:36.980] [info]  Checking for update
+[2022-05-08 22:04:37.979] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-08 23:19:03.523] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarCJFTcW/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarCJFTcW/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarCJFTcW/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarCJFTcW/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarCJFTcW/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarCJFTcW/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-08 23:24:14.825] [info]  Checking for update
+[2022-05-08 23:24:15.930] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-09 08:43:05.664] [info]  Checking for update
+[2022-05-09 08:43:05.685] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-09 09:59:17.340] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarSIPkwG/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarSIPkwG/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarSIPkwG/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarSIPkwG/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarSIPkwG/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarSIPkwG/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-09 10:59:15.077] [info]  Checking for update
+[2022-05-09 10:59:16.086] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-09 11:00:33.885] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarjngKdC/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarjngKdC/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarjngKdC/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarjngKdC/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarjngKdC/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarjngKdC/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-09 12:53:24.638] [info]  Checking for update
+[2022-05-09 12:53:25.265] [info]  Update for version 1.33.0 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-05-09 12:56:54.332] [info]  Checking for update
+[2022-05-09 12:56:54.938] [info]  Update for version 1.33.0 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-05-09 23:50:47.196] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarX7sZBg/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarX7sZBg/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarX7sZBg/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarX7sZBg/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarX7sZBg/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarX7sZBg/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-10 12:54:52.266] [info]  Checking for update
+[2022-05-10 12:54:52.990] [info]  Update for version 1.33.0 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-05-10 10:55:34.157] [info]  Checking for update
+[2022-05-10 10:55:34.170] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-10 11:28:03.979] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarF7HT7z/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarF7HT7z/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarF7HT7z/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarF7HT7z/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarF7HT7z/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarF7HT7z/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-10 15:54:57.409] [info]  Checking for update
+[2022-05-10 15:54:58.109] [info]  Update for version 1.33.0 is not available (latest version: 1.32.1, downgrade is disallowed).
+[2022-05-10 20:26:17.598] [info]  Checking for update
+[2022-05-10 20:26:17.612] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-10 20:27:01.592] [info]  Checking for update
+[2022-05-10 20:27:02.448] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-10 20:39:05.614] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarVdpL5X/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarVdpL5X/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarVdpL5X/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarVdpL5X/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarVdpL5X/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarVdpL5X/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-11 16:27:24.385] [info]  Checking for update
+[2022-05-11 16:27:25.258] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-11 23:29:21.416] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarl5Poan/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarl5Poan/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarl5Poan/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarl5Poan/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarl5Poan/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarl5Poan/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-11 23:38:16.548] [info]  Checking for update
+[2022-05-11 23:38:16.576] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-12 13:21:11.386] [info]  Checking for update
+[2022-05-12 13:21:12.111] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-12 12:01:30.178] [info]  Checking for update
+[2022-05-12 12:01:31.075] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-12 12:04:13.392] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarVxIbLh/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarVxIbLh/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarVxIbLh/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarVxIbLh/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarVxIbLh/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarVxIbLh/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-12 16:47:44.442] [info]  Checking for update
+[2022-05-12 16:47:44.454] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-12 20:19:37.394] [info]  Checking for update
+[2022-05-12 20:19:38.918] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-12 20:20:31.617] [info]  Checking for update
+[2022-05-12 20:20:31.627] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-12 23:20:22.557] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarqJxgS1/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarqJxgS1/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarqJxgS1/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarqJxgS1/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarqJxgS1/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarqJxgS1/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-13 08:44:37.605] [info]  Checking for update
+[2022-05-13 08:44:37.625] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-13 08:46:23.978] [info]  Checking for update
+[2022-05-13 08:46:24.442] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-13 15:49:55.904] [info]  Checking for update
+[2022-05-13 15:49:56.578] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-13 14:23:05.589] [info]  Checking for update
+[2022-05-13 14:23:05.619] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-13 17:08:06.545] [info]  Checking for update
+[2022-05-13 17:08:06.572] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-13 21:12:19.250] [info]  Checking for update
+[2022-05-13 21:12:19.713] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-13 23:29:39.010] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarJbCDiT/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarJbCDiT/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarJbCDiT/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarJbCDiT/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarJbCDiT/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarJbCDiT/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-14 15:06:18.375] [info]  Checking for update
+[2022-05-14 15:06:18.398] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-14 16:55:34.349] [info]  Checking for update
+[2022-05-14 16:55:34.723] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-15 00:42:07.802] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarFAlGoB/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarFAlGoB/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarFAlGoB/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarFAlGoB/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarFAlGoB/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarFAlGoB/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-15 10:37:49.652] [info]  Checking for update
+[2022-05-15 10:37:50.187] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-15 11:03:22.065] [info]  Checking for update
+[2022-05-15 11:03:22.084] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-15 11:16:09.056] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPrfUj7/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPrfUj7/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarPrfUj7/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarPrfUj7/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarPrfUj7/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarPrfUj7/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-15 15:51:53.417] [info]  Checking for update
+[2022-05-15 15:51:53.442] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-15 23:48:20.216] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarthfvCG/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarthfvCG/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarthfvCG/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarthfvCG/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarthfvCG/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarthfvCG/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-16 10:45:05.814] [info]  Checking for update
+[2022-05-16 10:45:25.873] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-16 18:50:30.617] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarmpCuLe/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarmpCuLe/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarmpCuLe/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarmpCuLe/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarmpCuLe/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarmpCuLe/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-17 14:47:15.974] [info]  Checking for update
+[2022-05-17 14:47:15.985] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-17 12:58:50.093] [info]  Checking for update
+[2022-05-17 12:58:50.120] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-17 23:54:44.089] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarM00tpU/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarM00tpU/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarM00tpU/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarM00tpU/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarM00tpU/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarM00tpU/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-18 09:17:02.494] [info]  Checking for update
+[2022-05-18 09:17:02.517] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-18 21:16:56.852] [info]  Checking for update
+[2022-05-18 21:16:57.232] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-19 17:22:39.415] [info]  Checking for update
+[2022-05-19 17:22:39.880] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-19 17:27:18.097] [info]  Checking for update
+[2022-05-19 17:27:18.114] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-19 23:15:17.737] [info]  Checking for update
+[2022-05-19 23:15:17.751] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-19 23:16:18.748] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarfpWZyq/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarfpWZyq/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarfpWZyq/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarfpWZyq/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarfpWZyq/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarfpWZyq/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-20 12:57:06.167] [info]  Checking for update
+[2022-05-20 12:57:26.244] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-20 13:00:29.725] [info]  Checking for update
+[2022-05-20 13:00:29.739] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-20 14:55:43.555] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwareHabte/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwareHabte/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwareHabte/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwareHabte/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwareHabte/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwareHabte/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-20 17:35:36.681] [info]  Checking for update
+[2022-05-20 17:35:36.704] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-21 16:24:52.908] [info]  Checking for update
+[2022-05-21 16:24:52.921] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-21 15:03:52.758] [info]  Checking for update
+[2022-05-21 15:03:53.496] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-21 17:41:45.690] [info]  Checking for update
+[2022-05-21 17:41:45.712] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-22 12:27:04.549] [info]  Checking for update
+[2022-05-22 12:27:05.127] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-22 22:26:58.520] [info]  Checking for update
+[2022-05-22 22:26:59.299] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-23 09:25:49.373] [info]  Checking for update
+[2022-05-23 09:25:49.403] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-23 15:15:27.965] [info]  Checking for update
+[2022-05-23 15:15:27.976] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-24 09:11:18.684] [info]  Checking for update
+[2022-05-24 09:11:18.708] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-24 20:29:39.504] [info]  Checking for update
+[2022-05-24 20:29:39.516] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-24 20:32:32.030] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarIULMdY/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarIULMdY/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarIULMdY/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarIULMdY/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarIULMdY/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarIULMdY/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-24 20:41:24.912] [info]  Checking for update
+[2022-05-24 20:41:25.790] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-25 09:34:15.291] [info]  Checking for update
+[2022-05-25 09:34:15.797] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-25 21:34:09.294] [info]  Checking for update
+[2022-05-25 21:34:10.215] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-26 09:26:57.127] [info]  Checking for update
+[2022-05-26 09:26:57.703] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-26 17:32:46.661] [info]  Checking for update
+[2022-05-26 17:32:47.348] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-26 23:45:28.531] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarjbRu06/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarjbRu06/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarjbRu06/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarjbRu06/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarjbRu06/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarjbRu06/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-27 09:19:44.496] [info]  Checking for update
+[2022-05-27 09:19:45.189] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-27 15:32:21.900] [info]  Checking for update
+[2022-05-27 15:32:21.921] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-28 09:18:40.879] [info]  Checking for update
+[2022-05-28 09:18:40.890] [error] Error: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-05-28 21:18:35.267] [info]  Checking for update
+[2022-05-28 21:18:35.709] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-29 09:27:37.921] [info]  Checking for update
+[2022-05-29 09:27:38.676] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-29 21:27:33.009] [info]  Checking for update
+[2022-05-29 21:27:33.891] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-30 08:37:46.243] [info]  Checking for update
+[2022-05-30 08:37:46.785] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-30 10:46:42.786] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarptvIuF/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarptvIuF/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarptvIuF/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarptvIuF/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarptvIuF/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarptvIuF/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-05-30 15:35:00.598] [info]  Checking for update
+[2022-05-30 15:35:01.159] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-05-31 18:53:26.480] [info]  Checking for update
+[2022-05-31 18:53:27.028] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-06-01 09:00:51.548] [info]  Checking for update
+[2022-06-01 09:00:52.109] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-06-01 15:11:09.598] [info]  Checking for update
+[2022-06-01 15:11:10.364] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-06-01 20:25:43.963] [info]  Checking for update
+[2022-06-01 20:25:44.726] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-06-02 08:54:43.791] [info]  Checking for update
+[2022-06-02 08:54:44.573] [info]  Update for version 1.33.0 is not available (latest version: 1.33.0, downgrade is disallowed).
+[2022-06-02 20:57:29.725] [info]  Checking for update
+[2022-06-02 20:57:29.735] [error] Error: Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7068)
+    at SimpleURLLoaderWrapper.emit (node:events:394:28)
+[2022-06-02 21:00:16.150] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarCHKFmd/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarCHKFmd/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwarCHKFmd/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwarCHKFmd/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwarCHKFmd/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwarCHKFmd/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-06-03 11:19:47.598] [info]  Checking for update
+[2022-06-03 11:19:48.200] [info]  Found version 2022.5.0 (url: Bitwarden-2022.5.0-x86_64.AppImage)
+[2022-06-03 11:19:48.202] [info]  Downloading update from Bitwarden-2022.5.0-x86_64.AppImage
+[2022-06-03 11:19:48.209] [info]  Cached update sha512 checksum doesn't match the latest available update. New update must be downloaded. Cached: kRH8prW3kAf+gIJ/5f0aRoMuF+K5c8y2N1OCTyKIiYu3qhFQB1+ndwaztOnR7G6sBZCbVEFnhdIWcJMBtSrMnQ==, expected: lPDjGR5WxJOAW7uzoCA0NTn7q2EbPrP3gL4xsYxoLIylA1N3JKCJ5+nwkQbnLifhVGspd8sSUUQP97RHWSN7gw==. Directory for cached update will be cleaned
+[2022-06-03 11:19:59.016] [info]  File has 346 changed blocks
+[2022-06-03 11:19:59.039] [info]  Full: 88,257.38 KB, To download: 6,970.15 KB (8%)
+[2022-06-03 11:19:59.040] [info]  Differential download: https://github.com/bitwarden/desktop/releases/download/v2022.5.0/Bitwarden-2022.5.0-x86_64.AppImage
+[2022-06-03 11:19:59.061] [info]  Redirect to https://objects.githubusercontent.com/github-production-release-asset-2e65be/76930145/2d2531e0-c7f6-49d8-b051-7d0be6dfb615
+[2022-06-03 11:20:00.504] [info]  New version 2022.5.0 has been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-2022.5.0-x86_64.AppImage
+[2022-06-03 11:20:23.716] [info]  Install on explicit quitAndInstall
+[2022-06-03 11:20:23.717] [info]  Install: isSilent: true, isForceRunAfter: true
+[2022-06-03 11:20:23.727] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:17709:14)
+    at AppImageUpdater.install (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:18370:25)
+    at AppImageUpdater.quitAndInstall (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:18331:34)
+    at UpdaterMain.<anonymous> (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53099:38)
+    at Generator.next (<anonymous>)
+    at fulfilled (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53002:58)
+[2022-06-03 13:11:20.683] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-06-03 13:11:20.696] [info]  Auto install update on quit
+[2022-06-03 13:11:20.696] [info]  Install: isSilent: true, isForceRunAfter: false
+[2022-06-03 13:11:20.701] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:17709:14)
+    at AppImageUpdater.install (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:18370:25)
+    at /tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:18401:18
+    at App.<anonymous> (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:18625:48)
+    at Object.onceWrapper (node:events:514:26)
+    at App.emit (node:events:406:35)
+    at App.<anonymous> (/tmp/.mount_Bitwarckk0Wk/resources/app.asar/main.js:53215:48)
+    at App.emit (node:events:406:35)
+[2022-06-03 14:32:05.610] [info]  Checking for update
+[2022-06-03 14:32:06.443] [info]  Found version 2022.5.0 (url: Bitwarden-2022.5.0-x86_64.AppImage)
+[2022-06-03 14:32:06.443] [info]  Downloading update from Bitwarden-2022.5.0-x86_64.AppImage
+[2022-06-03 14:32:06.818] [info]  Update has already been downloaded to /home/eragon/.cache/bitwarden-updater/pending/Bitwarden-2022.5.0-x86_64.AppImage).
+[2022-06-03 14:33:57.416] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:53332:36)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:53142:12)
+    at WindowMain.updateWindowState (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:53327:16)
+    at WindowMain.<anonymous> (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:53281:28)
+    at Generator.next (<anonymous>)
+    at /tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:53146:71
+    at new Promise (<anonymous>)
+[2022-06-03 14:33:57.420] [info]  Auto install update on quit
+[2022-06-03 14:33:57.420] [info]  Install: isSilent: true, isForceRunAfter: false
+[2022-06-03 14:33:57.421] [error] Error: Error: EACCES: permission denied, unlink '/opt/Bitwarden/Bitwarden.AppImage'
+    at Object.unlinkSync (node:fs:1718:3)
+    at AppImageUpdater.doInstall (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:17709:14)
+    at AppImageUpdater.install (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:18370:25)
+    at /tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:18401:18
+    at App.<anonymous> (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:18625:48)
+    at Object.onceWrapper (node:events:514:26)
+    at App.emit (node:events:406:35)
+    at App.<anonymous> (/tmp/.mount_BitwaroMHreJ/resources/app.asar/main.js:53215:48)
+    at App.emit (node:events:406:35)
+[2022-06-03 14:51:40.846] [info]  Checking for update
+[2022-06-03 14:51:41.143] [info]  Update for version 2022.5.0 is not available (latest version: 2022.5.0, downgrade is disallowed).
