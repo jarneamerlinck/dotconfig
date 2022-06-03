@@ -1,0 +1,7 @@
+game:
+  arch: win64
+  exe: /home/eragon/Games/keil-ide/drive_c/Keil_v5/UV4/UV4.exe
+  prefix: /home/eragon/Games/keil-ide
+system: {}
+wine:
+  version: lutris-fshack-7.2-x86_64

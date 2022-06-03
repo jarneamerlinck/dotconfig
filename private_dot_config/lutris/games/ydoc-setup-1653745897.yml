@@ -1,0 +1,5 @@
+game:
+  exe: /home/eragon/Games/ydoc/drive_c/YDOC/ydocTerminal/ydocTerminal.exe
+  prefix: /home/eragon/Games/ydoc
+wine:
+  version: lutris-fshack-7.2-x86_64

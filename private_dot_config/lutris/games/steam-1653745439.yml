@@ -1,0 +1,6 @@
+game:
+  args: run --branch=stable --arch=x86_64 --command=/app/bin/steam-wrapper --file-forwarding
+    com.valvesoftware.Steam @@u "" @@
+  exe: /usr/bin/flatpak
+system:
+  disable_runtime: true

@@ -1,0 +1,5 @@
+game:
+  exe: ''
+  prefix: /home/eragon/Games/ms_office
+wine:
+  version: lutris-fshack-7.2-x86_64
