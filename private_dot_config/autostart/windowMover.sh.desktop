@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/Bitwarden/Bitwarden.AppImage
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Bitwarden
+Name=ApplicationMover
+Comment[en_US]=
+Comment=sleep 10s 

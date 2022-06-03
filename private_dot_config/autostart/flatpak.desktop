@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=flatpak run com.getferdi.Ferdi
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Ferdi IM
+Name=Ferdi IM
+Comment[en_US]=
+Comment=

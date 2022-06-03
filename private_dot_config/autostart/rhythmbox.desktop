@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/rhythmbox
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Rhythmbox
+Name=Rhythmbox
+Comment[en_US]=Music player
+Comment=Music player

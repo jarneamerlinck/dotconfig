@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=flatpak run org.mozilla.Thunderbird
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Thunderbird Mail
+Name=Thunderbird Mail
+Comment[en_US]=
+Comment=

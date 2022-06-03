@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=sh /home/eragon/projects/tmuxSetup/setupTmux.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=overview
+Name=overview
+Comment[en_US]=overview
+Comment=overview
