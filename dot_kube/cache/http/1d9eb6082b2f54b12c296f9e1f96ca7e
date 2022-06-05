@@ -1,0 +1,10 @@
+HTTP/2.0 200 OK
+Content-Length: 526
+Audit-Id: bcd3633c-5fa7-4660-b5c6-863cfde1e6fd
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Fri, 03 Jun 2022 20:30:06 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 9e4ffb5e-752a-407d-a764-1f7f76c77597
+X-Kubernetes-Pf-Prioritylevel-Uid: aefd7874-97c1-46cb-941f-fbdd3a47af82
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"helm.cattle.io/v1","resources":[{"name":"helmcharts","singularName":"helmchart","namespaced":true,"kind":"HelmChart","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"storageVersionHash":"172ywkc2krU="},{"name":"helmchartconfigs","singularName":"helmchartconfig","namespaced":true,"kind":"HelmChartConfig","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"storageVersionHash":"j2rtIXmliow="}]}

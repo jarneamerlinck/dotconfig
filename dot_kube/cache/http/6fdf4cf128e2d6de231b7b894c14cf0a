@@ -1,0 +1,10 @@
+HTTP/2.0 200 OK
+Content-Length: 704
+Audit-Id: 38303ac7-a5ff-4c84-9abe-19e23059fd04
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Fri, 03 Jun 2022 20:30:06 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 9e4ffb5e-752a-407d-a764-1f7f76c77597
+X-Kubernetes-Pf-Prioritylevel-Uid: aefd7874-97c1-46cb-941f-fbdd3a47af82
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"policy/v1beta1","resources":[{"name":"poddisruptionbudgets","singularName":"","namespaced":true,"kind":"PodDisruptionBudget","verbs":["create","delete","deletecollection","get","list","patch","update","watch"],"shortNames":["pdb"],"storageVersionHash":"6BGBu0kpHtk="},{"name":"poddisruptionbudgets/status","singularName":"","namespaced":true,"kind":"PodDisruptionBudget","verbs":["get","patch","update"]},{"name":"podsecuritypolicies","singularName":"","namespaced":false,"kind":"PodSecurityPolicy","verbs":["create","delete","deletecollection","get","list","patch","update","watch"],"shortNames":["psp"],"storageVersionHash":"khBLobUXkqA="}]}

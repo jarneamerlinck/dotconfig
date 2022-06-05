@@ -1,0 +1,10 @@
+HTTP/2.0 200 OK
+Content-Length: 288
+Audit-Id: aa80f5fa-ba89-4b00-a405-9dbef156c29b
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Fri, 03 Jun 2022 20:30:06 GMT
+X-Kubernetes-Pf-Flowschema-Uid: 9e4ffb5e-752a-407d-a764-1f7f76c77597
+X-Kubernetes-Pf-Prioritylevel-Uid: aefd7874-97c1-46cb-941f-fbdd3a47af82
+
+{"kind":"APIResourceList","apiVersion":"v1","groupVersion":"k3s.cattle.io/v1","resources":[{"name":"addons","singularName":"addon","namespaced":true,"kind":"Addon","verbs":["delete","deletecollection","get","list","patch","create","update","watch"],"storageVersionHash":"tPDZYuNRr1o="}]}
