@@ -151,5 +151,5 @@ if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
     ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#999'
 fi
 
-[[ /usr/bin/tmux ]] && source <(tmux completion zsh)
-[[ /usr/bin/chezmoi ]] && source <(chezmoi completion zsh)
+#[[ /usr/bin/tmux ]] && source <(tmux completion zsh)
+#[[ /usr/bin/chezmoi ]] && source <(chezmoi completion zsh)
