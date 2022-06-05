@@ -1,0 +1,4 @@
+alias upgrade='sudo apt update;sudo apt upgrade'
+alias overview='tmux attach -t overview'
+alias k='kubectl'
+alias h='helm'
