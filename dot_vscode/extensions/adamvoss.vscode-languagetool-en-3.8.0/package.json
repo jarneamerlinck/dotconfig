@@ -1,0 +1,44 @@
+{
+	"name": "vscode-languagetool-en",
+	"displayName": "English Support for LanguageTool",
+	"version": "3.8.0",
+	"description": "Enables grammar checking of English in LanguageTool for Visual Studio Code.",
+	"icon": "img/png/LanguageTool-Icon-en.png",
+	"author": "Adam Voss",
+	"publisher": "adamvoss",
+	"preview": true,
+	"extensionDependencies": [
+		"adamvoss.vscode-languagetool"
+	],
+	"repository": {
+		"url": "https://github.com/adamvoss/vscode-languagetool"
+	},
+	"license": "Apache-2.0",
+	"engines": {
+		"vscode": "^1.8.0"
+	},
+	"galleryBanner": {
+		"color": "#6565f6",
+		"theme": "light"
+	},
+	"keywords": [
+		"spell",
+		"grammar",
+		"proofread",
+		"grammar-checker",
+		"English"
+	],
+	"categories": [
+		"Other"
+	],
+	"__metadata": {
+		"id": "87f864bd-5dc1-4a95-a20a-2f4f44b4844e",
+		"publisherId": "bcc84b7b-7923-41b3-80e2-0dce99cc0f2f",
+		"publisherDisplayName": "Adam Voss",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1655806624028
+	}
+}
