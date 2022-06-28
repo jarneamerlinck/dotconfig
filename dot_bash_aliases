@@ -11,6 +11,4 @@ alias iot_usb='gnome-terminal -e "tio /dev/ttyACM0 -b 9600"'
 
 alias knightofzero='gnome-terminal -e "ssh knightofzero"'
 alias fluves='gnome-terminal -e "ssh fluves"'
-alias mainserver='gnome-terminal -e "ssh mainserver"'
-alias kali='gnome-terminal -e "ssh kali"'
 alias wineWithPrefix='WINEPREFIX="/home/eragon/.local/share/wineprefixes/Default/" wine'
