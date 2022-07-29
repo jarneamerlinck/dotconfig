@@ -79,7 +79,7 @@ ZSH_THEME="robbyrussell"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git)
 
-source $ZSH/oh-my-zsh.sh
+# source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
@@ -144,6 +144,9 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 #
+HISTFILE=$HOME/.zsh_history
+HISTSIZE=5000
+SAVEHIST=5000
 # enable auto-suggestions based on the history
 if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
     . /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
@@ -151,5 +154,7 @@ if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
     ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#999'
 fi
 
-#[[ /usr/bin/tmux ]] && source <(tmux completion zsh)
-#[[ /usr/bin/chezmoi ]] && source <(chezmoi completion zsh)
+export EDITOR='vim'
+# [[ /usr/bin/tmux ]] && source <(tmux completion zsh)
+# [[ /usr/bin/chezmoi ]] && source <(chezmoi completion zsh)
+
