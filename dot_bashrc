@@ -111,7 +111,6 @@ alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
-export PATH=/home/eragon/Downloads/idea-IU-211.7628.21/bin:$PATH
 export PATH=$PATH:/opt/conda/bin
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
@@ -135,10 +134,9 @@ else
     if [ -f "/opt/conda/etc/profile.d/conda.sh" ]; then
         . "/opt/conda/etc/profile.d/conda.sh"
     else
-        export PATH="/opt/conda/bin:$PATH"
+        export PATH="/opt/conda/bin:/usr/bin:$PATH"
     fi
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-WINEPREFIX="/home/eragon/.local/share/wineprefixes/Wine_64/"
 

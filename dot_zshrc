@@ -106,7 +106,6 @@ plugins=(git)
 
 source ~/powerlevel10k/powerlevel10k.zsh-theme
 
-export PATH=$PATH:/opt/conda/bin
 if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
@@ -128,7 +127,7 @@ bindkey '^[[Z' undo                               # shift + tab undo last action
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-
+export PATH=$PATH":/home/eragon/.var/app/com.visualstudio.code/data/node_modules/bin"
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/opt/conda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
