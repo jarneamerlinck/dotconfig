@@ -11,6 +11,11 @@ alias iot_usb='gnome-terminal -e "tio /dev/ttyACM0 -b 9600"'
 
 alias knightofzero='gnome-terminal -e "ssh knightofzero"'
 alias fluves='gnome-terminal -e "ssh fluves"'
+alias drone='gnome-terminal -e "ssh drone"'
 alias wineWithPrefix='WINEPREFIX="/home/eragon/.local/share/wineprefixes/Default/" wine'
 alias k="kubectl"
 alias h="helm"
+alias code="codium"
+
+alias powersave="echo powersave | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor"
+alias performance="echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor"
