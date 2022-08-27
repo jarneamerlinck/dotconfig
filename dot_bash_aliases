@@ -17,5 +17,3 @@ alias k="kubectl"
 alias h="helm"
 alias code="codium"
 
-alias powersave="echo powersave | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor"
-alias performance="echo performance | sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor"
