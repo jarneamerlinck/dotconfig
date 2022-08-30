@@ -17,3 +17,6 @@ alias k="kubectl"
 alias h="helm"
 alias code="codium"
 
+
+alias fanspeed="cat /sys/devices/platform/asus-nb-wmi/hwmon/hwmon5/fan1_input "
+alias watch='watch -n 1 '
