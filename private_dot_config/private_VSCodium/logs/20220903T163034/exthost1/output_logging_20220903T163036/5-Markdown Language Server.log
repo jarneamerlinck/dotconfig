@@ -1,8 +1,0 @@
-[Debug 14:30:37.529] LinkProvider: compute - file:///home/eragon/repos/cheatsheet/infrastructure/keys.md
-[Debug 14:30:38.376] TableOfContentsProvider: create - file:///home/eragon/repos/cheatsheet/infrastructure/keys.md
-[Debug 14:30:38.956] MdFoldingProvider: provideFoldingRanges - file:///home/eragon/repos/cheatsheet/infrastructure/keys.md
-[Debug 14:30:39.558] TableOfContentsProvider: create - file:///home/eragon/repos/Networks/ips.md
-[Debug 14:30:39.559] LinkProvider: compute - file:///home/eragon/repos/Networks/ips.md
-[Debug 14:30:39.730] MdFoldingProvider: provideFoldingRanges - file:///home/eragon/repos/Networks/ips.md
-[Debug 14:30:47.846] ReferencesProvider: getReferencesAtPosition: file:///home/eragon/repos/Networks/ips.md
-[Debug 14:30:48.340] ReferencesProvider: getReferencesAtPosition: file:///home/eragon/repos/Networks/ips.md

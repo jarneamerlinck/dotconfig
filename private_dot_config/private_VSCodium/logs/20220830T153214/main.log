@@ -1,7 +1,0 @@
-[2022-08-30 15:32:14.588] [main] [info] update#setState idle
-[2022-08-30 15:32:15.584] [main] [info] Starting extension host with pid 4774 (fork() took 6 ms).
-[2022-08-30 15:32:44.605] [main] [info] update#setState checking for updates
-[2022-08-30 15:32:44.808] [main] [info] update#setState idle
-[2022-08-30 16:32:44.614] [main] [info] update#setState checking for updates
-[2022-08-30 16:32:44.996] [main] [info] update#setState idle
-[2022-08-30 17:15:49.948] [main] [info] Extension host with pid 4774 exited with code: 0, signal: null.

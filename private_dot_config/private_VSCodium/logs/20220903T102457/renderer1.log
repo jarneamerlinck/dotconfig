@@ -1,8 +1,0 @@
-[2022-09-03 10:24:58.733] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:101:7169)
-    at SimpleURLLoaderWrapper.emit (node:events:390:28)
-[2022-09-03 10:24:59.338] [renderer1] [error] RequestService#request (browser) - error https://open-vsx.org/vscode/gallery/extensionquery {"name":"Offline"}
-[2022-09-03 12:36:33.595] [renderer1] [error] spawn truecolor ENOENT: Error: spawn truecolor ENOENT
-    at Process.ChildProcess._handle.onexit (node:internal/child_process:282:19)
-    at onErrorNT (node:internal/child_process:477:16)
-    at processTicksAndRejections (node:internal/process/task_queues:83:21)

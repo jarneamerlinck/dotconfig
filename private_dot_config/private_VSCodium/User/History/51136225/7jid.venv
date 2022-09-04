@@ -1,6 +1,0 @@
-ARG PYTHON_VERSION=${py_version}
-FROM python:${PYTHON_VERSION}-bullseye
-RUN echo "deb [trusted=yes] https://apt.fluves.net/bullseye/ /" >/etc/apt/sources.list.d/fluves.list \
-    && apt-get update && apt-get install -y gdal-bin pandoc git-lfs saga && apt-get install libproj-dev\
-    && rm -rf /var/lib/apt/lists/*
-RUN python3 -m pip install --upgrade pip && pip install tox interrogate coverage-badge goes

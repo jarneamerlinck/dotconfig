@@ -1,6 +1,0 @@
-[2022-09-01 18:39:58.424] [main] [info] update#setState idle
-[2022-09-01 18:39:59.447] [main] [info] Starting extension host with pid 4998 (fork() took 8 ms).
-[2022-09-01 18:40:04.814] [main] [info] Extension host with pid 4998 exited with code: 0, signal: null.
-[2022-09-01 18:40:05.360] [main] [info] Starting extension host with pid 5268 (fork() took 9 ms).
-[2022-09-01 18:40:28.425] [main] [info] update#setState checking for updates
-[2022-09-01 18:40:28.834] [main] [info] update#setState idle

@@ -1,9 +1,0 @@
-# Ips
-
-
-| Name     | IP   |network|
-| -------- | :--- | :--- | 
-| firewall |
-|          |      |
-|    WAN      |  10.120.    |
-|    LAN      |      |
