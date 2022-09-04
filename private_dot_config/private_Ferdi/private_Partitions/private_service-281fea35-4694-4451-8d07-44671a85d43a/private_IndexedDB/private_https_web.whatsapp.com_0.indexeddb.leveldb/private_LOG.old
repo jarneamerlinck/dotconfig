@@ -1,0 +1,10 @@
+2022/08/25-17:12:59.763 111f3 Reusing MANIFEST /home/eragon/.config/Ferdi/Partitions/service-281fea35-4694-4451-8d07-44671a85d43a/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/25-17:12:59.763 111f3 Recovering log #14
+2022/08/25-17:12:59.807 111f3 Reusing old log /home/eragon/.config/Ferdi/Partitions/service-281fea35-4694-4451-8d07-44671a85d43a/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000014.log 
+2022/08/25-17:13:11.683 111a1 Level-0 table #19: started
+2022/08/25-17:13:11.698 111a1 Level-0 table #19: 1194422 bytes OK
+2022/08/25-17:13:11.699 111a1 Delete type=0 #14
+2022/08/25-17:13:11.972 111a1 Compacting 1@1 + 1@2 files
+2022/08/25-17:13:12.003 111a1 Generated table #20@1: 39844 keys, 1943757 bytes
+2022/08/25-17:13:12.003 111a1 Compacted 1@1 + 1@2 files => 1943757 bytes
+2022/08/25-17:13:12.004 111a1 compacted to: files[ 0 0 1 0 0 0 0 ]

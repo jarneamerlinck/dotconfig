@@ -1,0 +1,28 @@
+[2022-09-03 10:24:58.841] [exthost] [info] Extension host with pid 4659 started
+[2022-09-03 10:24:58.841] [exthost] [info] Skipping acquiring lock for /home/eragon/.config/VSCodium/User/workspaceStorage/eb551270843c89430e038eb70e0c43ea.
+[2022-09-03 10:24:58.897] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-03 10:24:58.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-03 10:24:58.992] [exthost] [info] ExtensionService#_doActivateExtension shd101wyy.markdown-preview-enhanced, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-03 10:24:59.197] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-03 10:24:59.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-03 10:24:59.263] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-03 10:24:59.264] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-03 10:24:59.267] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-09-03 10:24:59.275] [exthost] [info] ExtensionService#_doActivateExtension reduckted.vscode-gitweblinks, startup: true, activationEvent: '*'
+[2022-09-03 10:24:59.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+[2022-09-03 10:24:59.412] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-03 10:24:59.428] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-03 10:24:59.466] [exthost] [info] Eager extensions activated
+[2022-09-03 10:24:59.483] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-03 10:24:59.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-03 10:24:59.489] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-03 10:24:59.511] [exthost] [info] ExtensionService#_doActivateExtension felipecaputo.git-project-manager, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-03 10:24:59.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-03 10:39:31.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-03 10:39:31.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-03 10:39:31.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-09-03 11:52:51.393] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-03 11:53:02.794] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-03 11:53:11.626] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-03 11:53:14.468] [exthost] [warning] TextEditor is closed/disposed
+[2022-09-03 11:53:19.271] [exthost] [warning] TextEditor is closed/disposed

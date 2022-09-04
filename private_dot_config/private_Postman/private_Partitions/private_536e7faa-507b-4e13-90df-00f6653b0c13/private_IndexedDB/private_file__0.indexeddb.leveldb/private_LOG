@@ -1,0 +1,10 @@
+2022/08/25-13:22:43.236 176f5 Creating DB /home/eragon/.config/Postman/Partitions/536e7faa-507b-4e13-90df-00f6653b0c13/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2022/08/25-13:22:43.239 176f5 Reusing MANIFEST /home/eragon/.config/Postman/Partitions/536e7faa-507b-4e13-90df-00f6653b0c13/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/08/25-13:22:43.247 176b6 Level-0 table #5: started
+2022/08/25-13:22:43.250 176b6 Level-0 table #5: 492 bytes OK
+2022/08/25-13:22:43.250 176b6 Delete type=0 #3
+2022/08/25-13:22:43.250 176b6 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/08/25-13:22:43.269 176f5 Level-0 table #7: started
+2022/08/25-13:22:43.270 176f5 Level-0 table #7: 477 bytes OK
+2022/08/25-13:22:43.271 176f5 Delete type=0 #4
+2022/08/25-13:22:43.271 176f5 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

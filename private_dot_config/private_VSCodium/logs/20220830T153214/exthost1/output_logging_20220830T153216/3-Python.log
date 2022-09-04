@@ -1,0 +1,28 @@
+Telemetry level is off
+Experiments are disabled, only manually opted experiments are active.
+LSP Notebooks experiment is disabled -- not using Pylance
+LSP Notebooks interactive window support is disabled -- not in LSP Notebooks experiment
+Python interpreter path: /bin/python
+Starting Jedi language server for pyiotdataflow.
+> conda info --json
+> /opt/conda/envs/pyiotdataflow/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/interpreterInfo.py
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/interpreterInfo.py
+> /bin/python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/interpreterInfo.py
+> /opt/conda/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/interpreterInfo.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n base --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n base --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda info --json
+> conda run -n base --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n base --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py
+> conda run -n dali-intrusion-data-analysis --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/printEnvVariables.py

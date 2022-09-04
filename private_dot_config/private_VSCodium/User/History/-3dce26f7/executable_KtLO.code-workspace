@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "pyiotdataflow"
+		},
+		{
+			"path": "iot-modeling"
+		},
+		{
+			"path": "dali-intrusion-data-analysis"
+		},
+		{
+			"path": "infrastructure"
+		},
+		{
+			"path": "cn-ws"
+		},
+		{
+			"path": "../cheatsheet"
+		},
+		{
+			"path": "pydts"
+		}
+	],
+	"settings": {}
+}

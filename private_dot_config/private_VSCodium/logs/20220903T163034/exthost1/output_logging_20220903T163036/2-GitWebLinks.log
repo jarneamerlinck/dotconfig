@@ -1,0 +1,57 @@
+[16:30:37.199] Activating extension.
+[16:30:37.199] Executing git -c core.quotepath=false --version
+[16:30:37.213] Workspace folders changed: {
+  added: [
+    'file:///home/eragon/repos/installers',
+    'file:///home/eragon/.local/share/chezmoi',
+    'file:///home/eragon/repos/doujinci',
+    'file:///home/eragon/repos/containerDeploys',
+    'file:///home/eragon/repos/cheatsheet',
+    'file:///home/eragon/repos/temp',
+    'file:///home/eragon/repos/Networks'
+  ],
+  removed: []
+}
+[16:30:37.214] Adding workspace folder 'file:///home/eragon/repos/installers'.
+[16:30:37.214] Searching for Git repositories in workspace '/home/eragon/repos/installers'...
+[16:30:37.214] Searching up from the workspace root...
+[16:30:37.252] Found a repository at '/home/eragon/repos/installers'.
+[16:30:37.252] Workspace details: { uri: 'file:///home/eragon/repos/installers', hasRepositories: true }
+[16:30:37.252] Adding workspace folder 'file:///home/eragon/.local/share/chezmoi'.
+[16:30:37.252] Searching for Git repositories in workspace '/home/eragon/.local/share/chezmoi'...
+[16:30:37.252] Searching up from the workspace root...
+[16:30:37.307] Found a repository at '/home/eragon/.local/share/chezmoi'.
+[16:30:37.307] Workspace details: {
+  uri: 'file:///home/eragon/.local/share/chezmoi',
+  hasRepositories: true
+}
+[16:30:37.307] Adding workspace folder 'file:///home/eragon/repos/doujinci'.
+[16:30:37.307] Searching for Git repositories in workspace '/home/eragon/repos/doujinci'...
+[16:30:37.307] Searching up from the workspace root...
+[16:30:37.308] Found a repository at '/home/eragon/repos/doujinci'.
+[16:30:37.308] Workspace details: { uri: 'file:///home/eragon/repos/doujinci', hasRepositories: true }
+[16:30:37.308] Adding workspace folder 'file:///home/eragon/repos/containerDeploys'.
+[16:30:37.308] Searching for Git repositories in workspace '/home/eragon/repos/containerDeploys'...
+[16:30:37.308] Searching up from the workspace root...
+[16:30:37.309] Found a repository at '/home/eragon/repos/containerDeploys'.
+[16:30:37.309] Workspace details: {
+  uri: 'file:///home/eragon/repos/containerDeploys',
+  hasRepositories: true
+}
+[16:30:37.309] Adding workspace folder 'file:///home/eragon/repos/cheatsheet'.
+[16:30:37.309] Searching for Git repositories in workspace '/home/eragon/repos/cheatsheet'...
+[16:30:37.309] Searching up from the workspace root...
+[16:30:37.309] Found a repository at '/home/eragon/repos/cheatsheet'.
+[16:30:37.309] Workspace details: { uri: 'file:///home/eragon/repos/cheatsheet', hasRepositories: true }
+[16:30:37.309] Adding workspace folder 'file:///home/eragon/repos/temp'.
+[16:30:37.309] Searching for Git repositories in workspace '/home/eragon/repos/temp'...
+[16:30:37.309] Searching up from the workspace root...
+[16:30:37.359] Searching within the workspace...
+[16:30:37.519] No repositories found.
+[16:30:37.519] Workspace details: { uri: 'file:///home/eragon/repos/temp', hasRepositories: false }
+[16:30:37.519] Adding workspace folder 'file:///home/eragon/repos/Networks'.
+[16:30:37.519] Searching for Git repositories in workspace '/home/eragon/repos/Networks'...
+[16:30:37.519] Searching up from the workspace root...
+[16:30:37.730] Searching within the workspace...
+[16:30:37.823] No repositories found.
+[16:30:37.824] Workspace details: { uri: 'file:///home/eragon/repos/Networks', hasRepositories: false }

@@ -1,0 +1,424 @@
+WARNING:pygls.protocol:Cancel notification for unknown message id "3"
+WARNING:pygls.protocol:Cancel notification for unknown message id "5"
+WARNING:pygls.protocol:Cancel notification for unknown message id "10"
+WARNING:pygls.protocol:Cancel notification for unknown message id "20"
+WARNING:pygls.protocol:Cancel notification for unknown message id "26"
+WARNING:pygls.protocol:Cancel notification for unknown message id "41"
+WARNING:pygls.protocol:Cancel notification for unknown message id "54"
+WARNING:pygls.protocol:Cancel notification for unknown message id "55"
+WARNING:pygls.protocol:Cancel notification for unknown message id "78"
+WARNING:pygls.protocol:Cancel notification for unknown message id "89"
+WARNING:pygls.protocol:Cancel notification for unknown message id "106"
+WARNING:pygls.protocol:Cancel notification for unknown message id "115"
+WARNING:pygls.protocol:Cancel notification for unknown message id "180"
+WARNING:pygls.protocol:Cancel notification for unknown message id "181"
+WARNING:pygls.protocol:Cancel notification for unknown message id "182"
+WARNING:pygls.protocol:Cancel notification for unknown message id "244"
+WARNING:pygls.protocol:Cancel notification for unknown message id "262"
+WARNING:pygls.protocol:Cancel notification for unknown message id "277"
+WARNING:pygls.protocol:Cancel notification for unknown message id "278"
+WARNING:pygls.protocol:Cancel notification for unknown message id "279"
+WARNING:pygls.protocol:Cancel notification for unknown message id "350"
+WARNING:pygls.protocol:Cancel notification for unknown message id "360"
+WARNING:pygls.protocol:Cancel notification for unknown message id "390"
+WARNING:pygls.protocol:Cancel notification for unknown message id "402"
+WARNING:pygls.protocol:Cancel notification for unknown message id "515"
+WARNING:pygls.protocol:Cancel notification for unknown message id "562"
+WARNING:pygls.protocol:Cancel notification for unknown message id "563"
+WARNING:pygls.protocol:Cancel notification for unknown message id "564"
+WARNING:pygls.protocol:Cancel notification for unknown message id "581"
+WARNING:pygls.protocol:Cancel notification for unknown message id "614"
+WARNING:pygls.protocol:Cancel notification for unknown message id "664"
+WARNING:pygls.protocol:Cancel notification for unknown message id "692"
+WARNING:pygls.protocol:Cancel notification for unknown message id "693"
+WARNING:pygls.protocol:Cancel notification for unknown message id "694"
+WARNING:pygls.protocol:Cancel notification for unknown message id "698"
+WARNING:pygls.protocol:Cancel notification for unknown message id "724"
+WARNING:pygls.protocol:Cancel notification for unknown message id "734"
+WARNING:pygls.protocol:Cancel notification for unknown message id "755"
+WARNING:pygls.protocol:Cancel notification for unknown message id "756"
+WARNING:pygls.protocol:Cancel notification for unknown message id "761"
+WARNING:pygls.protocol:Cancel notification for unknown message id "781"
+WARNING:pygls.protocol:Cancel notification for unknown message id "782"
+WARNING:pygls.protocol:Cancel notification for unknown message id "817"
+WARNING:pygls.protocol:Cancel notification for unknown message id "824"
+WARNING:pygls.protocol:Cancel notification for unknown message id "840"
+WARNING:pygls.protocol:Cancel notification for unknown message id "853"
+WARNING:pygls.protocol:Cancel notification for unknown message id "855"
+WARNING:pygls.protocol:Cancel notification for unknown message id "875"
+WARNING:pygls.protocol:Cancel notification for unknown message id "876"
+WARNING:pygls.protocol:Cancel notification for unknown message id "893"
+WARNING:pygls.protocol:Cancel notification for unknown message id "907"
+WARNING:pygls.protocol:Cancel notification for unknown message id "908"
+WARNING:pygls.protocol:Cancel notification for unknown message id "962"
+WARNING:pygls.protocol:Cancel notification for unknown message id "978"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1011"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1012"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1014"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1027"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1033"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1044"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1058"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1067"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1070"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1105"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1122"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1133"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1153"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1165"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1193"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1237"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1328"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1374"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1379"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1389"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1390"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1399"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1400"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1442"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1473"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1490"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1600"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1660"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1661"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1662"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1663"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1664"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1668"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1677"
+ERROR:pygls.protocol:Failed to handle request 1694 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=9:8
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:20:44 AM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 1698 completionItem/resolve label='src' kind=<CompletionItemKind.Module: 9> tags=None detail=None documentation=None deprecated=None preselect=None sort_text='v0' filter_text='src' insert_text='src' insert_text_format=<InsertTextFormat.PlainText: 1> insert_text_mode=None text_edit=None additional_text_edits=None commit_characters=None command=None data=None
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 172, in completion_item_resolve
+    return jedi_utils.lsp_completion_item_resolve(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 599, in lsp_completion_item_resolve
+    item.detail = next(get_full_signatures(completion), completion.name)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 513, in get_full_signatures
+    signatures = name.get_signatures()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 582, in get_signatures
+    for s in self._get_signatures()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 570, in _get_signatures
+    names = convert_names([self._name], prefer_stubs=True)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names
+    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper
+    return list(func(*args, **kwargs))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 126, in _python_to_stub_names
+    for x in _python_to_stub_names([n], fallback_to_python=fallback_to_python):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper
+    return list(func(*args, **kwargs))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names
+    v = name.get_defining_qualified_value()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value
+    if context.is_module() or context.is_class():
+AttributeError: 'NoneType' object has no attribute 'is_module'
+[Error - 11:20:45 AM] Request completionItem/resolve failed.
+  Message: AttributeError: 'NoneType' object has no attribute 'is_module'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 172, in completion_item_resolve\n    return jedi_utils.lsp_completion_item_resolve(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 599, in lsp_completion_item_resolve\n    item.detail = next(get_full_signatures(completion), completion.name)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 513, in get_full_signatures\n    signatures = name.get_signatures()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 582, in get_signatures\n    for s in self._get_signatures()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 570, in _get_signatures\n    names = convert_names([self._name], prefer_stubs=True)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names\n    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper\n    return list(func(*args, **kwargs))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 126, in _python_to_stub_names\n    for x in _python_to_stub_names([n], fallback_to_python=fallback_to_python):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper\n    return list(func(*args, **kwargs))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names\n    v = name.get_defining_qualified_value()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value\n    if context.is_module() or context.is_class():\n']}
+ERROR:pygls.protocol:Failed to handle request 1707 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=9:5
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:20:50 AM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 1708 textDocument/documentHighlight partial_result_token=None work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=9:5
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 329, in highlight
+    names = jedi_script.get_references(*jedi_lines, scope="file")
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 418, in get_references
+    return _references(**kwargs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 412, in _references
+    names = find_references(self._get_module_context(), tree_name, scope == 'file')
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 122, in find_references
+    found_names = _find_defining_names(module_context, tree_name)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 57, in _find_defining_names
+    found_names |= set(convert_names(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names
+    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper
+    return list(func(*args, **kwargs))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names
+    v = name.get_defining_qualified_value()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value
+    if context.is_module() or context.is_class():
+AttributeError: 'NoneType' object has no attribute 'is_module'
+[Error - 11:20:50 AM] Request textDocument/documentHighlight failed.
+  Message: AttributeError: 'NoneType' object has no attribute 'is_module'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 329, in highlight\n    names = jedi_script.get_references(*jedi_lines, scope="file")\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 418, in get_references\n    return _references(**kwargs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 412, in _references\n    names = find_references(self._get_module_context(), tree_name, scope == \'file\')\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 122, in find_references\n    found_names = _find_defining_names(module_context, tree_name)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 57, in _find_defining_names\n    found_names |= set(convert_names(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names\n    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper\n    return list(func(*args, **kwargs))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names\n    v = name.get_defining_qualified_value()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value\n    if context.is_module() or context.is_class():\n']}
+WARNING:pygls.protocol:Cancel notification for unknown message id "1724"
+ERROR:pygls.protocol:Failed to handle request 1727 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=17:8
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:21:06 AM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 1749 completionItem/resolve label='src' kind=<CompletionItemKind.Module: 9> tags=None detail=None documentation=None deprecated=None preselect=None sort_text='v29' filter_text='src' insert_text='src' insert_text_format=<InsertTextFormat.PlainText: 1> insert_text_mode=None text_edit=None additional_text_edits=None commit_characters=None command=None data=None
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 172, in completion_item_resolve
+    return jedi_utils.lsp_completion_item_resolve(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 599, in lsp_completion_item_resolve
+    item.detail = next(get_full_signatures(completion), completion.name)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 513, in get_full_signatures
+    signatures = name.get_signatures()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 582, in get_signatures
+    for s in self._get_signatures()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 570, in _get_signatures
+    names = convert_names([self._name], prefer_stubs=True)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names
+    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper
+    return list(func(*args, **kwargs))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 126, in _python_to_stub_names
+    for x in _python_to_stub_names([n], fallback_to_python=fallback_to_python):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper
+    return list(func(*args, **kwargs))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names
+    v = name.get_defining_qualified_value()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value
+    if context.is_module() or context.is_class():
+AttributeError: 'NoneType' object has no attribute 'is_module'
+[Error - 11:21:15 AM] Request completionItem/resolve failed.
+  Message: AttributeError: 'NoneType' object has no attribute 'is_module'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 172, in completion_item_resolve\n    return jedi_utils.lsp_completion_item_resolve(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 599, in lsp_completion_item_resolve\n    item.detail = next(get_full_signatures(completion), completion.name)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 513, in get_full_signatures\n    signatures = name.get_signatures()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 582, in get_signatures\n    for s in self._get_signatures()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/classes.py", line 570, in _get_signatures\n    names = convert_names([self._name], prefer_stubs=True)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names\n    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper\n    return list(func(*args, **kwargs))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 126, in _python_to_stub_names\n    for x in _python_to_stub_names([n], fallback_to_python=fallback_to_python):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper\n    return list(func(*args, **kwargs))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names\n    v = name.get_defining_qualified_value()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value\n    if context.is_module() or context.is_class():\n']}
+WARNING:pygls.protocol:Cancel notification for unknown message id "1767"
+ERROR:pygls.protocol:Failed to handle request 1774 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=14:5
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:21:26 AM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 1775 textDocument/documentHighlight partial_result_token=None work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=14:6
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 329, in highlight
+    names = jedi_script.get_references(*jedi_lines, scope="file")
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 418, in get_references
+    return _references(**kwargs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 412, in _references
+    names = find_references(self._get_module_context(), tree_name, scope == 'file')
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 122, in find_references
+    found_names = _find_defining_names(module_context, tree_name)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 57, in _find_defining_names
+    found_names |= set(convert_names(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names
+    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper
+    return list(func(*args, **kwargs))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names
+    v = name.get_defining_qualified_value()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value
+    if context.is_module() or context.is_class():
+AttributeError: 'NoneType' object has no attribute 'is_module'
+[Error - 11:21:26 AM] Request textDocument/documentHighlight failed.
+  Message: AttributeError: 'NoneType' object has no attribute 'is_module'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 329, in highlight\n    names = jedi_script.get_references(*jedi_lines, scope="file")\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 418, in get_references\n    return _references(**kwargs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 412, in _references\n    names = find_references(self._get_module_context(), tree_name, scope == \'file\')\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 122, in find_references\n    found_names = _find_defining_names(module_context, tree_name)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 57, in _find_defining_names\n    found_names |= set(convert_names(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names\n    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper\n    return list(func(*args, **kwargs))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names\n    v = name.get_defining_qualified_value()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value\n    if context.is_module() or context.is_class():\n']}
+ERROR:pygls.protocol:Failed to handle request 1778 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=9:7
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:21:30 AM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 1779 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=9:8
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:21:31 AM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 1780 textDocument/hover work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=9:8
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+[Error - 11:21:31 AM] Request textDocument/hover failed.
+  Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 351, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 564, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/jedi_utils.py", line 544, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+ERROR:pygls.protocol:Failed to handle request 1789 textDocument/documentHighlight partial_result_token=None work_done_token=None text_document=TextDocumentIdentifier(uri='file:///home/eragon/repos/fluves/pyiotdataflow/scripts/test_mine.py') position=9:8
+Traceback (most recent call last):
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request
+    method_name, method_type, msg_id, handler(params))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 329, in highlight
+    names = jedi_script.get_references(*jedi_lines, scope="file")
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 418, in get_references
+    return _references(**kwargs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 412, in _references
+    names = find_references(self._get_module_context(), tree_name, scope == 'file')
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 122, in find_references
+    found_names = _find_defining_names(module_context, tree_name)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 57, in _find_defining_names
+    found_names |= set(convert_names(
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names
+    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper
+    return list(func(*args, **kwargs))
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names
+    v = name.get_defining_qualified_value()
+  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value
+    if context.is_module() or context.is_class():
+AttributeError: 'NoneType' object has no attribute 'is_module'
+[Error - 11:21:40 AM] Request textDocument/documentHighlight failed.
+  Message: AttributeError: 'NoneType' object has no attribute 'is_module'
+  Code: -32602 
+{'traceback': ['  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 331, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/pygls/protocol.py", line 260, in _execute_request\n    method_name, method_type, msg_id, handler(params))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi_language_server/server.py", line 329, in highlight\n    names = jedi_script.get_references(*jedi_lines, scope="file")\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 418, in get_references\n    return _references(**kwargs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/api/__init__.py", line 412, in _references\n    names = find_references(self._get_module_context(), tree_name, scope == \'file\')\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 122, in find_references\n    found_names = _find_defining_names(module_context, tree_name)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/references.py", line 57, in _find_defining_names\n    found_names |= set(convert_names(\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 152, in convert_names\n    return _python_to_stub_names(names, fallback_to_python=prefer_stubs)\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/utils.py", line 16, in wrapper\n    return list(func(*args, **kwargs))\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/gradual/conversion.py", line 132, in _python_to_stub_names\n    v = name.get_defining_qualified_value()\n', '  File "/home/eragon/.vscode-oss/extensions/ms-python.python-2022.12.1/pythonFiles/lib/jedilsp/jedi/inference/names.py", line 251, in get_defining_qualified_value\n    if context.is_module() or context.is_class():\n']}
+WARNING:pygls.protocol:Cancel notification for unknown message id "1807"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1873"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1892"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1926"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1976"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1977"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1978"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1979"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1980"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1981"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1982"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1986"
+WARNING:pygls.protocol:Cancel notification for unknown message id "1987"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2007"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2062"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2067"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2083"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2140"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2165"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2177"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2179"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2189"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2242"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2259"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2265"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2271"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2292"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2301"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2302"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2304"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2308"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2310"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2329"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2345"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2363"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2403"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2416"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2435"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2468"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2576"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2577"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2578"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2579"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2580"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2581"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2624"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2649"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2681"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2741"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2764"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2831"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2844"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2871"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2911"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2915"
+WARNING:pygls.protocol:Cancel notification for unknown message id "2954"

@@ -1,0 +1,82 @@
+[2022-09-03T19:30:32.539Z] Log level: Info
+[2022-09-03T19:30:32.540Z] [info] Validating found git in: git
+[2022-09-03T19:30:32.563Z] [info] Using git 2.37.2 from git
+[2022-09-03T19:30:32.597Z] > git rev-parse --show-toplevel [16ms]
+[2022-09-03T19:30:32.694Z] > git rev-parse --git-dir --git-common-dir [85ms]
+[2022-09-03T19:30:32.697Z] [info] Open repository: /home/eragon/repos/installers
+[2022-09-03T19:30:32.710Z] > git status -z -uall [7ms]
+[2022-09-03T19:30:32.718Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-03T19:30:32.725Z] > git rev-parse --show-toplevel [17ms]
+[2022-09-03T19:30:32.779Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [54ms]
+[2022-09-03T19:30:32.864Z] > git remote --verbose [73ms]
+[2022-09-03T19:30:32.865Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [79ms]
+[2022-09-03T19:30:32.910Z] > git rev-parse --git-dir --git-common-dir [177ms]
+[2022-09-03T19:30:32.912Z] [info] Open repository: /home/eragon/.local/share/chezmoi
+[2022-09-03T19:30:32.962Z] > git status -z -uall [41ms]
+[2022-09-03T19:30:32.975Z] > git rev-parse --show-toplevel [43ms]
+[2022-09-03T19:30:33.008Z] > git rev-parse --git-dir --git-common-dir [25ms]
+[2022-09-03T19:30:33.010Z] [info] Open repository: /home/eragon/repos/doujinci
+[2022-09-03T19:30:33.026Z] > git symbolic-ref --short HEAD [52ms]
+[2022-09-03T19:30:33.032Z] > git config --get commit.template [93ms]
+[2022-09-03T19:30:33.040Z] > git status -z -uall [2ms]
+[2022-09-03T19:30:33.046Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+[2022-09-03T19:30:33.056Z] > git rev-parse --show-toplevel [30ms]
+[2022-09-03T19:30:33.064Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-09-03T19:30:33.066Z] [info] Open repository: /home/eragon/repos/containerDeploys
+[2022-09-03T19:30:33.081Z] > git remote --verbose [25ms]
+[2022-09-03T19:30:33.082Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [31ms]
+[2022-09-03T19:30:33.083Z] > git symbolic-ref --short HEAD [37ms]
+[2022-09-03T19:30:33.109Z] > git status -z -uall [34ms]
+[2022-09-03T19:30:33.116Z] > git rev-parse --show-toplevel [35ms]
+[2022-09-03T19:30:33.133Z] > git rev-parse --git-dir --git-common-dir [9ms]
+[2022-09-03T19:30:33.135Z] [info] Open repository: /home/eragon/repos/cheatsheet
+[2022-09-03T19:30:33.147Z] > git symbolic-ref --short HEAD [33ms]
+[2022-09-03T19:30:33.152Z] > git config --get commit.template [52ms]
+[2022-09-03T19:30:33.168Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [80ms]
+[2022-09-03T19:30:33.188Z] > git status -z -uall [47ms]
+[2022-09-03T19:30:33.195Z] > git status -z -uall [36ms]
+[2022-09-03T19:30:33.201Z] > git remote --verbose [16ms]
+[2022-09-03T19:30:33.201Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+[2022-09-03T19:30:33.202Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [50ms]
+[2022-09-03T19:30:33.213Z] > git rev-parse --show-toplevel [66ms]
+[2022-09-03T19:30:33.213Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T19:30:33.241Z] > git rev-parse --show-toplevel [22ms]
+[2022-09-03T19:30:33.241Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T19:30:33.246Z] > git remote --verbose [33ms]
+[2022-09-03T19:30:33.246Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+[2022-09-03T19:30:33.247Z] > git symbolic-ref --short HEAD [47ms]
+[2022-09-03T19:30:33.252Z] > git symbolic-ref --short HEAD [57ms]
+[2022-09-03T19:30:33.263Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+[2022-09-03T19:30:33.274Z] > git rev-parse --show-toplevel [28ms]
+[2022-09-03T19:30:33.274Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T19:30:33.279Z] > git config --get commit.template [46ms]
+[2022-09-03T19:30:33.301Z] > git rev-parse --show-toplevel [22ms]
+[2022-09-03T19:30:33.301Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T19:30:33.308Z] > git remote --verbose [35ms]
+[2022-09-03T19:30:33.308Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+[2022-09-03T19:30:33.309Z] > git config --get commit.template [47ms]
+[2022-09-03T19:30:33.309Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [53ms]
+[2022-09-03T19:30:33.355Z] > git remote --verbose [32ms]
+[2022-09-03T19:30:33.355Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [39ms]
+[2022-09-03T19:30:33.357Z] > git rev-parse --show-toplevel [49ms]
+[2022-09-03T19:30:33.357Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T19:30:33.366Z] > git config --get commit.template [12ms]
+[2022-09-03T19:30:33.369Z] > git config --get commit.template [5ms]
+[2022-09-03T19:30:33.741Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-03T19:30:35.553Z] > git status -z -uall [2534ms]
+[2022-09-03T19:30:35.561Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-03T19:30:35.567Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/download_changes refs/remotes/download_changes [1ms]
+[2022-09-03T19:30:35.577Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-09-03T19:30:35.577Z] > git remote --verbose [1ms]
+[2022-09-03T19:30:35.586Z] > git config --get commit.template [1ms]
+[2022-09-03T19:30:37.570Z] > git status -z -uall [1978ms]
+[2022-09-03T19:30:37.577Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-03T19:30:37.584Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/download_changes refs/remotes/download_changes [1ms]
+[2022-09-03T19:30:37.595Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-09-03T19:30:37.595Z] > git remote --verbose [1ms]
+[2022-09-03T19:30:37.603Z] > git config --get commit.template [0ms]

@@ -1,0 +1,8 @@
+2022/09/04-17:07:48.447 6494 Reusing MANIFEST /home/eragon/.config/Ferdi/Partitions/service-281fea35-4694-4451-8d07-44671a85d43a/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/04-17:07:48.447 6494 Recovering log #18
+2022/09/04-17:07:48.461 6494 Reusing old log /home/eragon/.config/Ferdi/Partitions/service-281fea35-4694-4451-8d07-44671a85d43a/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000018.log 
+2022/09/04-17:07:48.461 6494 Delete type=2 #19
+2022/09/04-17:07:48.461 6494 Delete type=2 #16
+2022/09/04-17:08:21.126 639e Level-0 table #23: started
+2022/09/04-17:08:21.138 639e Level-0 table #23: 1215098 bytes OK
+2022/09/04-17:08:21.140 639e Delete type=0 #18

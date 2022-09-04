@@ -1,0 +1,16 @@
+[2022-09-02 08:48:05.519] [sharedprocess] [info] Deleted from disk eamodio.gitlens /home/eragon/.vscode-oss/extensions/eamodio.gitlens-12.1.2
+[2022-09-02 08:48:05.612] [sharedprocess] [info] Starting worker process with pid 5517 (type: fileWatcher, window: 1).
+[2022-09-02 08:48:08.064] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-09-02 08:48:08.065] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-09-02 08:48:08.853] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-09-02 08:48:10.125] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-09-02 08:48:13.226] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/eragon/.config/VSCodium/CachedExtensionVSIXs/eamodio.gitlens-12.2.1
+[2022-09-02 08:48:13.465] [sharedprocess] [info] Extracted extension to /home/eragon/.vscode-oss/extensions/.3f380ce9-554a-4070-a740-b04177ab3d6b: eamodio.gitlens
+[2022-09-02 08:48:13.474] [sharedprocess] [info] Renamed to /home/eragon/.vscode-oss/extensions/eamodio.gitlens-12.2.1
+[2022-09-02 08:48:13.477] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-09-02 08:48:13.484] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-09-02 08:48:13.694] [sharedprocess] [info] Downloaded extension: ms-python.python /home/eragon/.config/VSCodium/CachedExtensionVSIXs/ms-python.python-2022.14.0
+[2022-09-02 08:48:14.579] [sharedprocess] [info] Extracted extension to /home/eragon/.vscode-oss/extensions/.0c6cffb4-e6dd-46d7-aad2-43e635d87216: ms-python.python
+[2022-09-02 08:48:14.584] [sharedprocess] [info] Renamed to /home/eragon/.vscode-oss/extensions/ms-python.python-2022.14.0
+[2022-09-02 08:48:14.587] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-09-02 08:48:14.591] [sharedprocess] [info] Extension installed successfully: ms-python.python

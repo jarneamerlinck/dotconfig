@@ -1,0 +1,39 @@
+file:///home/eragon/repos/temp/Moving_firewall/dhcp {"mtime":1662194461897,"ctime":1662194391788,"size":776,"etag":"39acgqm47p1","orphaned":false,"typeId":""}
+$TTL 86400
+
+@       IN  SOA         mainserver.knightofzero.com. root.knightofzero.com. (
+2;
+3600;
+1800;
+604800;
+86400;
+);
+@       IN  NS          mainserver.knightofzero.com.
+;
+
+knightofzero.com.       IN A    192.168.1.111
+mainserver              IN A    192.168.1.100
+switch                  IN A    192.168.1.99
+router                  IN A    192.168.1.1
+master                  IN A    192.168.1.110 
+vaultOfdata             IN A    192.168.1.102
+vaultOfdata2            IN A    192.168.1.105
+kube                    IN A    192.168.1.100
+
+
+
+
+@       IN  SOA         mainserver.knightofzero.com. root.knightofzero.com. (
+2;
+3600;
+1800;
+604800;
+86400;
+);
+@       IN  NS          mainserver.knightofzero.com.
+;
+
+100.1      IN PTR    mainserver
+999.1      IN PTR    switch
+
+7MSUE5fuF54T87SgJyrgG9yQ5Fnt75

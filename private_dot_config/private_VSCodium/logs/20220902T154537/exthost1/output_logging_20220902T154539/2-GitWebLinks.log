@@ -1,0 +1,76 @@
+[15:45:39.326] Activating extension.
+[15:45:39.326] Executing git -c core.quotepath=false --version
+[15:45:39.350] Workspace folders changed: {
+  added: [
+    'file:///home/eragon/repos/fluves/pyiotdataflow',
+    'file:///home/eragon/repos/fluves/iot-modeling',
+    'file:///home/eragon/repos/fluves/dali-intrusion-data-analysis',
+    'file:///home/eragon/repos/fluves/infrastructure',
+    'file:///home/eragon/repos/fluves/cn-ws',
+    'file:///home/eragon/repos/cheatsheet',
+    'file:///home/eragon/repos/fluves/pydts',
+    'file:///home/eragon/repos/fluves/pycnws'
+  ],
+  removed: []
+}
+[15:45:39.350] Adding workspace folder 'file:///home/eragon/repos/fluves/pyiotdataflow'.
+[15:45:39.350] Searching for Git repositories in workspace '/home/eragon/repos/fluves/pyiotdataflow'...
+[15:45:39.350] Searching up from the workspace root...
+[15:45:39.369] Found a repository at '/home/eragon/repos/fluves/pyiotdataflow'.
+[15:45:39.369] Workspace details: {
+  uri: 'file:///home/eragon/repos/fluves/pyiotdataflow',
+  hasRepositories: true
+}
+[15:45:39.369] Adding workspace folder 'file:///home/eragon/repos/fluves/iot-modeling'.
+[15:45:39.369] Searching for Git repositories in workspace '/home/eragon/repos/fluves/iot-modeling'...
+[15:45:39.369] Searching up from the workspace root...
+[15:45:39.399] Found a repository at '/home/eragon/repos/fluves/iot-modeling'.
+[15:45:39.399] Workspace details: {
+  uri: 'file:///home/eragon/repos/fluves/iot-modeling',
+  hasRepositories: true
+}
+[15:45:39.399] Adding workspace folder 'file:///home/eragon/repos/fluves/dali-intrusion-data-analysis'.
+[15:45:39.399] Searching for Git repositories in workspace '/home/eragon/repos/fluves/dali-intrusion-data-analysis'...
+[15:45:39.399] Searching up from the workspace root...
+[15:45:39.424] Found a repository at '/home/eragon/repos/fluves/dali-intrusion-data-analysis'.
+[15:45:39.424] Workspace details: {
+  uri: 'file:///home/eragon/repos/fluves/dali-intrusion-data-analysis',
+  hasRepositories: true
+}
+[15:45:39.424] Adding workspace folder 'file:///home/eragon/repos/fluves/infrastructure'.
+[15:45:39.424] Searching for Git repositories in workspace '/home/eragon/repos/fluves/infrastructure'...
+[15:45:39.424] Searching up from the workspace root...
+[15:45:39.458] Found a repository at '/home/eragon/repos/fluves/infrastructure'.
+[15:45:39.459] Workspace details: {
+  uri: 'file:///home/eragon/repos/fluves/infrastructure',
+  hasRepositories: true
+}
+[15:45:39.459] Adding workspace folder 'file:///home/eragon/repos/fluves/cn-ws'.
+[15:45:39.459] Searching for Git repositories in workspace '/home/eragon/repos/fluves/cn-ws'...
+[15:45:39.459] Searching up from the workspace root...
+[15:45:39.467] Found a repository at '/home/eragon/repos/fluves/cn-ws'.
+[15:45:39.467] Workspace details: {
+  uri: 'file:///home/eragon/repos/fluves/cn-ws',
+  hasRepositories: true
+}
+[15:45:39.467] Adding workspace folder 'file:///home/eragon/repos/cheatsheet'.
+[15:45:39.467] Searching for Git repositories in workspace '/home/eragon/repos/cheatsheet'...
+[15:45:39.467] Searching up from the workspace root...
+[15:45:39.475] Found a repository at '/home/eragon/repos/cheatsheet'.
+[15:45:39.475] Workspace details: { uri: 'file:///home/eragon/repos/cheatsheet', hasRepositories: true }
+[15:45:39.475] Adding workspace folder 'file:///home/eragon/repos/fluves/pydts'.
+[15:45:39.475] Searching for Git repositories in workspace '/home/eragon/repos/fluves/pydts'...
+[15:45:39.475] Searching up from the workspace root...
+[15:45:39.536] Found a repository at '/home/eragon/repos/fluves/pydts'.
+[15:45:39.536] Workspace details: {
+  uri: 'file:///home/eragon/repos/fluves/pydts',
+  hasRepositories: true
+}
+[15:45:39.536] Adding workspace folder 'file:///home/eragon/repos/fluves/pycnws'.
+[15:45:39.536] Searching for Git repositories in workspace '/home/eragon/repos/fluves/pycnws'...
+[15:45:39.536] Searching up from the workspace root...
+[15:45:39.551] Found a repository at '/home/eragon/repos/fluves/pycnws'.
+[15:45:39.551] Workspace details: {
+  uri: 'file:///home/eragon/repos/fluves/pycnws',
+  hasRepositories: true
+}

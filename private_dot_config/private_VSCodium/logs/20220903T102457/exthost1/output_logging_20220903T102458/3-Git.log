@@ -1,0 +1,123 @@
+[2022-09-03T08:24:59.446Z] Log level: Info
+[2022-09-03T08:24:59.446Z] [info] Validating found git in: git
+[2022-09-03T08:24:59.453Z] [info] Using git 2.37.2 from git
+[2022-09-03T08:24:59.472Z] > git rev-parse --show-toplevel [8ms]
+[2022-09-03T08:24:59.532Z] > git rev-parse --git-dir --git-common-dir [52ms]
+[2022-09-03T08:24:59.535Z] [info] Open repository: /home/eragon/repos/installers
+[2022-09-03T08:24:59.572Z] > git status -z -uall [32ms]
+[2022-09-03T08:24:59.593Z] > git symbolic-ref --short HEAD [17ms]
+[2022-09-03T08:24:59.624Z] > git rev-parse --show-toplevel [80ms]
+[2022-09-03T08:24:59.645Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+[2022-09-03T08:24:59.699Z] > git remote --verbose [46ms]
+[2022-09-03T08:24:59.699Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [50ms]
+[2022-09-03T08:24:59.701Z] > git rev-parse --git-dir --git-common-dir [74ms]
+[2022-09-03T08:24:59.702Z] [info] Open repository: /home/eragon/.local/share/chezmoi
+[2022-09-03T08:24:59.717Z] > git config --get commit.template [1ms]
+[2022-09-03T08:24:59.724Z] > git rev-parse --show-toplevel [14ms]
+[2022-09-03T08:24:59.742Z] > git status -z -uall [36ms]
+[2022-09-03T08:24:59.746Z] > git status -z -uall [22ms]
+[2022-09-03T08:24:59.751Z] > git symbolic-ref --short HEAD [5ms]
+[2022-09-03T08:24:59.762Z] > git rev-parse --git-dir --git-common-dir [34ms]
+[2022-09-03T08:24:59.763Z] [info] Open repository: /home/eragon/repos/doujinci
+[2022-09-03T08:24:59.790Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [36ms]
+[2022-09-03T08:24:59.797Z] > git symbolic-ref --short HEAD [48ms]
+[2022-09-03T08:24:59.803Z] > git remote --verbose [6ms]
+[2022-09-03T08:24:59.803Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-09-03T08:24:59.809Z] > git rev-parse --show-toplevel [38ms]
+[2022-09-03T08:24:59.826Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+[2022-09-03T08:24:59.836Z] > git remote --verbose [3ms]
+[2022-09-03T08:24:59.836Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-09-03T08:24:59.837Z] > git config --get commit.template [20ms]
+[2022-09-03T08:24:59.841Z] > git rev-parse --git-dir --git-common-dir [28ms]
+[2022-09-03T08:24:59.843Z] [info] Open repository: /home/eragon/repos/containerDeploys
+[2022-09-03T08:24:59.907Z] > git status -z -uall [66ms]
+[2022-09-03T08:24:59.912Z] > git status -z -uall [64ms]
+[2022-09-03T08:24:59.920Z] > git symbolic-ref --short HEAD [3ms]
+[2022-09-03T08:24:59.925Z] > git symbolic-ref --short HEAD [13ms]
+[2022-09-03T08:24:59.930Z] > git config --get commit.template [50ms]
+[2022-09-03T08:24:59.943Z] > git rev-parse --show-toplevel [91ms]
+[2022-09-03T08:24:59.951Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-09-03T08:24:59.953Z] [info] Open repository: /home/eragon/repos/cheatsheet
+[2022-09-03T08:24:59.959Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [29ms]
+[2022-09-03T08:24:59.969Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [44ms]
+[2022-09-03T08:24:59.998Z] > git status -z -uall [40ms]
+[2022-09-03T08:25:00.002Z] > git remote --verbose [24ms]
+[2022-09-03T08:25:00.003Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [30ms]
+[2022-09-03T08:25:00.004Z] > git remote --verbose [36ms]
+[2022-09-03T08:25:00.004Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [40ms]
+[2022-09-03T08:25:00.015Z] > git symbolic-ref --short HEAD [13ms]
+[2022-09-03T08:25:00.021Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-09-03T08:25:00.028Z] > git config --get commit.template [14ms]
+[2022-09-03T08:25:00.029Z] > git config --get commit.template [19ms]
+[2022-09-03T08:25:00.029Z] > git remote --verbose [1ms]
+[2022-09-03T08:25:00.029Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-09-03T08:25:00.035Z] > git config --get commit.template [0ms]
+[2022-09-03T08:25:00.272Z] > git show --textconv :linux/fedora.md [4ms]
+[2022-09-03T08:25:00.273Z] > git ls-files --stage -- /home/eragon/repos/cheatsheet/linux/fedora.md [1ms]
+[2022-09-03T08:25:00.520Z] > git check-ignore -v -z --stdin [0ms]
+[2022-09-03T08:25:01.877Z] > git status -z -uall [2110ms]
+[2022-09-03T08:25:01.882Z] > git symbolic-ref --short HEAD [0ms]
+[2022-09-03T08:25:01.887Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/download_changes refs/remotes/download_changes [1ms]
+[2022-09-03T08:25:01.895Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-09-03T08:25:01.896Z] > git remote --verbose [1ms]
+[2022-09-03T08:25:01.902Z] > git config --get commit.template [1ms]
+[2022-09-03T08:38:52.467Z] > git check-ignore -v -z --stdin [14ms]
+[2022-09-03T08:38:52.468Z] > git check-ignore -v -z --stdin [8ms]
+[2022-09-03T08:38:52.468Z] > git check-ignore -v -z --stdin [5ms]
+[2022-09-03T08:38:52.468Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-03T08:38:52.468Z] > git check-ignore -v -z --stdin [12ms]
+[2022-09-03T08:38:54.702Z] > git check-ignore -v -z --stdin [1ms]
+[2022-09-03T08:39:32.720Z] > git rev-parse --show-toplevel [6ms]
+[2022-09-03T08:39:32.720Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T08:39:51.849Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-03T08:39:51.849Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T08:45:58.069Z] > git rev-parse --show-toplevel [5ms]
+[2022-09-03T08:45:58.069Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T08:46:24.159Z] > git rev-parse --show-toplevel [6ms]
+[2022-09-03T08:46:24.159Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T09:52:34.202Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-03T09:52:34.202Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T09:52:37.625Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-03T09:52:37.625Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T09:52:47.524Z] > git show --textconv :linux/fedora.md [5ms]
+[2022-09-03T09:52:47.525Z] > git ls-files --stage -- /home/eragon/repos/cheatsheet/linux/fedora.md [2ms]
+[2022-09-03T09:52:48.659Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-03T09:52:48.659Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T09:52:50.468Z] > git show --textconv :linux/chezmoi.md [5ms]
+[2022-09-03T09:52:50.468Z] > git ls-files --stage -- /home/eragon/repos/cheatsheet/linux/chezmoi.md [1ms]
+[2022-09-03T09:52:50.473Z] > git cat-file -s 71cf3a9002030524430664b348e96929695877c4 [1ms]
+[2022-09-03T09:52:55.501Z] > git show --textconv :README.md [6ms]
+[2022-09-03T09:52:55.501Z] > git ls-files --stage -- /home/eragon/repos/cheatsheet/README.md [1ms]
+[2022-09-03T09:52:55.506Z] > git cat-file -s 349c2eed07c7d9c53f67136e527202a267b933ee [1ms]
+[2022-09-03T09:53:10.338Z] > git show --textconv :Programming_languages/C.md [10ms]
+[2022-09-03T09:53:10.338Z] > git ls-files --stage -- /home/eragon/repos/cheatsheet/Programming_languages/C.md [3ms]
+[2022-09-03T09:53:10.345Z] > git cat-file -s cf11a06516dcee31bb2a1c56c6e814d9ec1beb74 [1ms]
+[2022-09-03T09:53:10.555Z] > git check-ignore -v -z --stdin [3ms]
+[2022-09-03T09:53:13.650Z] > git show --textconv :README.md [4ms]
+[2022-09-03T09:53:13.651Z] > git ls-files --stage -- /home/eragon/repos/cheatsheet/README.md [1ms]
+[2022-09-03T09:53:13.656Z] > git cat-file -s 349c2eed07c7d9c53f67136e527202a267b933ee [1ms]
+[2022-09-03T09:53:18.224Z] > git show --textconv :infrastructure/keys.md [5ms]
+[2022-09-03T09:53:18.225Z] > git ls-files --stage -- /home/eragon/repos/cheatsheet/infrastructure/keys.md [1ms]
+[2022-09-03T09:53:18.230Z] > git cat-file -s 8abc40b8542e6674ee1095b659e9ac1a634592b9 [0ms]
+[2022-09-03T10:15:34.665Z] > git rev-parse --show-toplevel [6ms]
+[2022-09-03T10:15:34.665Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T10:18:56.232Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-03T10:18:56.232Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T10:33:35.346Z] > git rev-parse --show-toplevel [9ms]
+[2022-09-03T10:33:35.346Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T10:33:39.927Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-03T10:33:39.927Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-09-03T10:33:40.440Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-03T10:33:40.440Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

@@ -1,0 +1,3 @@
+[Debug 06:48:06.671] LinkProvider: compute - file:///home/eragon/repos/cheatsheet/linux/fedora.md
+[Debug 06:48:07.352] TableOfContentsProvider: create - file:///home/eragon/repos/cheatsheet/linux/fedora.md
+[Debug 06:48:08.120] MdFoldingProvider: provideFoldingRanges - file:///home/eragon/repos/cheatsheet/linux/fedora.md

@@ -1,0 +1,11 @@
+export IOT_DB_SERVER=ijzer.fluves.net
+export IOT_DB_PORT=5435
+export IOT_DB_DATABASE=sensors
+export IOT_DB_USERNAME=jarnea
+export IOT_DB_PASSWORD=xxxxxxxxx
+export HOOK_ANTWERP_URL=xxxxxx
+export AIRTABLE_API_KEY=keyALy3XCaUtcD5EB
+FTP_SERVER=ftp-iot.fluves.net
+export FTP_PORT=21
+export FTP_USERNAME=sync
+export FTP_PASSWORD=eo7shooThu7oG5g

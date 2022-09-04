@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "installers"
+		},
+		{
+			"path": "../.local/share/chezmoi"
+		},
+		{
+			"path": "doujinci"
+		},
+		{
+			"path": "containerDeploys"
+		},
+		{
+			"path": "cheatsheet"
+		},
+		{
+			"path": "temp"
+		},
+		{
+			"path": "Networks"
+		}
+	],
+	"settings": {}
+}

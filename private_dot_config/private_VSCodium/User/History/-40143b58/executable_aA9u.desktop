@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Codium
+Comment=ide
+Exec=/nix/store/3cixnv7fz91mvdss7fw0g6alzz5pxsas-user-environment/bin/codium
+
+
+
+
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Application Name
+Comment=Application description
+Icon=/path/to/icon.xpm
+Exec=/path/to/application/executable
+Terminal=false
+Categories=Tags;Describing;Application

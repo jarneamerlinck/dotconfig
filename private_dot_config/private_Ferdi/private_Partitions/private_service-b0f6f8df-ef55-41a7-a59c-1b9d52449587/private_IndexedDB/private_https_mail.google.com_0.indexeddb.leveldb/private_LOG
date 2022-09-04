@@ -1,0 +1,6 @@
+2022/09/04-17:07:47.700 63f0 Reusing MANIFEST /home/eragon/.config/Ferdi/Partitions/service-b0f6f8df-ef55-41a7-a59c-1b9d52449587/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/04-17:07:47.701 63f0 Recovering log #4
+2022/09/04-17:07:47.706 63f0 Reusing old log /home/eragon/.config/Ferdi/Partitions/service-b0f6f8df-ef55-41a7-a59c-1b9d52449587/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2022/09/04-17:07:50.431 6494 Level-0 table #8: started
+2022/09/04-17:07:50.446 6494 Level-0 table #8: 2041029 bytes OK
+2022/09/04-17:07:50.448 6494 Delete type=0 #4

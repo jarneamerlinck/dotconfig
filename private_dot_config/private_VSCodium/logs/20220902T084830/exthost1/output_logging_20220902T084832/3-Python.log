@@ -1,0 +1,17 @@
+Telemetry level is off
+Experiments are disabled, only manually opted experiments are active.
+LSP Notebooks experiment is disabled -- not using Pylance
+LSP Notebooks interactive window support is disabled -- not in LSP Notebooks experiment
+Python interpreter path: /bin/python
+Starting Jedi language server for default.
+> conda info --json
+> /opt/conda/envs/cnws/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/interpreterInfo.py
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/interpreterInfo.py
+> /bin/python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/interpreterInfo.py
+> /opt/conda/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/interpreterInfo.py
+> /opt/conda/envs/pyiotdataflow/bin/python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/interpreterInfo.py
+> conda run -n pyiotdataflow --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/printEnvVariables.py
+> conda run -n pyiotdataflow --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/printEnvVariables.py
+> conda run -n pyiotdataflow --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/printEnvVariables.py
+> conda run -n pyiotdataflow --no-capture-output python ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2022.14.0/pythonFiles/printEnvVariables.py

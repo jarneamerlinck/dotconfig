@@ -1,0 +1,957 @@
+VSCodium (1.70.2, undefined, desktop)
+Jupyter Extension Version: 2022.8.1002170547.
+Python Extension Version: 2022.12.1.
+Multiple Workspace folders opened /home/eragon/repos/fluves/pyiotdataflow, /home/eragon/repos/fluves/iot-modeling, /home/eragon/repos/fluves/dali-intrusion-data-analysis, /home/eragon/repos/fluves/infrastructure, /home/eragon/repos/fluves/cn-ws, /home/eragon/repos/cheatsheet, /home/eragon/repos/fluves/pydts, /home/eragon/repos/fluves/pycnws
+info 16:5:4.683: ZMQ install verified.
+info 16:5:5.75: LSP Notebooks experiment is disabled -- not in treatment group
+info 16:5:5.91: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 16:5:5.121: Preferred Remote kernel for /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb is undefined
+info 16:5:5.121: Find preferred kernel for /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb with metadata {"kernelspec":{"display_name":"Python 3.9.12 ('dali-intrusion-data-analysis')","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.12"},"orig_nbformat":4,"vscode":{"interpreter":{"hash":"21feddff6a81f78d3f8656c36499382f4bfc95cee52fa0825f4b8cb40c39640b"}}} & preferred interpreter /bin/python
+info 16:5:5.125: Preferred Remote kernel for /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb is undefined
+info 16:5:5.125: Preferred kernel .jvsc74a57bd021feddff6a81f78d3f8656c36499382f4bfc95cee52fa0825f4b8cb40c39640b./opt/conda/envs/dali-intrusion-data-analysis/python./opt/conda/envs/dali-intrusion-data-analysis/python.-m#ipykernel_launcher is exact match or top match for non python kernels, (false, undefined, true, false)
+info 16:5:5.125: PreferredConnection: .jvsc74a57bd021feddff6a81f78d3f8656c36499382f4bfc95cee52fa0825f4b8cb40c39640b./opt/conda/envs/dali-intrusion-data-analysis/python./opt/conda/envs/dali-intrusion-data-analysis/python.-m#ipykernel_launcher found for NotebookDocument: /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:5.222: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 16:5:5.249: Process Execution: > /bin/python -c "import pip"
+> /bin/python -c "import pip"
+error 16:5:5.408: Failed to get activated environment variables ourselves [Error: Command failed: conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+error 16:5:5.410: Execing shell command, Class name = g, completed in 283ms, has a falsy return value, Arg 1: "~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py", Arg 2: "" [Error: Command failed: conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+info 16:5:5.672: Preferred Remote kernel for /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb is undefined
+info 16:5:6.330: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m pip list
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m pip list
+info 16:5:11.24: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.26: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd021feddff6a81f78d3f8656c36499382f4bfc95cee52fa0825f4b8cb40c39640b./opt/conda/envs/dali-intrusion-data-analysis/python./opt/conda/envs/dali-intrusion-data-analysis/python.-m#ipykernel_launcher' (Python Path: /opt/conda/envs/dali-intrusion-data-analysis, EnvType: Conda, EnvName: 'dali-intrusion-data-analysis', Version: 3.9.12) for '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' (disableUI=false)
+info 16:5:11.26: Creating raw notebook for resource '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:5:11.26: Computing working directory for resource '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:5:11.26: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.26: Execute Cell 4 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.26: Execute Cell 5 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.27: Execute Cell 7 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.27: Execute Cell 8 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.27: Execute Cell 10 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.27: Execute Cell 11 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.27: Execute Cell 12 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:5:11.46: Starting raw kernel 'dali-intrusion-data-analysis (Python 3.9.12)' for interpreter /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 16:5:11.51: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+info 16:5:11.951: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 16:5:12.5: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"521fabe3-7d6c-4fa6-b4df-45261a030fce" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774TqfDCM11C0rG.json
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"521fabe3-7d6c-4fa6-b4df-45261a030fce" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774TqfDCM11C0rG.json
+info 16:5:12.5: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 16:5:12.85: ipykernel version 6.9.1 for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 16:5:12.85: ipykernel location /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+warn 16:5:12.425: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 16:5:12.425: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '521fabe3-7d6c-4fa6-b4df-45261a030fce' instead of 'b"521fabe3-7d6c-4fa6-b4df-45261a030fce"'.
+  warn(
+
+info 16:5:12.432: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-4774TqfDCM11C0rG.json
+
+info 16:5:12.630: Started kernel dali-intrusion-data-analysis (Python 3.9.12)., (Raw session started and connected)
+info 16:5:12.631: Finished connecting 75c3d10e-395b-4039-b3a7-8694eb5e3a9d
+info 16:5:12.633: UpdateWorkingDirectoryAndPath in Kernel
+info 16:5:12.634: Executing silently Code (busy) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in
+info 16:5:12.734: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in with 1 output(s)
+info 16:5:12.734: Waiting for idle on (kernel): ae46bc7f-7e06-46c9-9194-078ee5e2b3c6 -> idle
+info 16:5:12.734: Finished waiting for idle on (kernel): ae46bc7f-7e06-46c9-9194-078ee5e2b3c6 -> idle
+info 16:5:12.747: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python ~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printJupyterDataDir.py
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python ~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printJupyterDataDir.py
+info 16:5:12.781: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 16:5:12.783: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 16:5:12.783: Widget Message: data-base-url set to https://file%2B.vscode-resource.vscode-cdn.net/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/tmp/scripts/0237bae6c201de14c3e173d460836e0f0afd27b4c7428f713c9ae4fa3d3adae7/jupyter
+info 16:5:13.409: Cell 2 executed with state Success
+info 16:5:13.439: Cell 3 executed with state Success
+info 16:5:15.177: Cell 4 executed with state Success
+info 16:5:15.230: Cell 5 executed with state Success
+info 16:5:15.281: Cell 7 executed with state Success
+info 16:5:15.316: Cell 8 executed with state Success
+info 16:5:15.368: Cell 10 executed with state Success
+info 16:5:15.864: Cell 11 executed with state Success
+info 16:5:15.969: Cell 12 executed with state Success
+info 16:12:26.418: Loading webview. View is notset
+info 16:12:26.419: Loading web view...
+info 16:12:26.421: Webview panel created.
+info 16:12:26.567: Web view react rendered
+info 16:46:45.839: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:46:46.106: Cancel all remaining cells true || Error || undefined
+info 16:46:46.106: Cancel pending cells
+info 16:46:46.106: Cell 2 executed with state Error
+info 16:49:59.765: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:49:59.804: Cancel all remaining cells true || Error || undefined
+info 16:49:59.804: Cancel pending cells
+info 16:49:59.804: Cell 2 executed with state Error
+info 16:50:4.946: Disposing kernel .jvsc74a57bd021feddff6a81f78d3f8656c36499382f4bfc95cee52fa0825f4b8cb40c39640b./opt/conda/envs/dali-intrusion-data-analysis/python./opt/conda/envs/dali-intrusion-data-analysis/python.-m#ipykernel_launcher for notebook /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb due to selection of another kernel or closing of the notebook
+info 16:50:4.946: Dispose Kernel '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' associated with '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:50:4.949: Cancel pending cells
+info 16:50:4.955: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher' (Python Path: /opt/conda, EnvType: Conda, EnvName: 'base', Version: 3.9.12) for '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' (disableUI=true)
+info 16:50:4.956: Creating raw notebook for resource '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:50:4.956: Computing working directory for resource '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:50:4.972: Starting raw kernel 'base (Python 3.9.12)' for interpreter /opt/conda/bin/python
+info 16:50:4.975: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+info 16:50:5.430: Activation Commands received conda activate base for shell bash
+error 16:50:5.643: Failed to get activated environment variables ourselves [Error: Command failed: conda activate base && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate base && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+error 16:50:5.644: Execing shell command, Class name = g, completed in 213ms, has a falsy return value, Arg 1: "~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py", Arg 2: "" [Error: Command failed: conda activate base && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate base && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+info 16:50:5.936: Process Execution: > /opt/conda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+warn 16:50:5.956: Stderr output when getting ipykernel version & path Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'ipykernel' for /opt/conda/bin/python
+info 16:50:6.91: Process Execution: > /opt/conda/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"f4132fd3-d1ec-4eb4-b685-2590137805c5" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774syRCqVSWocWL.json
+> /opt/conda/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"f4132fd3-d1ec-4eb4-b685-2590137805c5" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774syRCqVSWocWL.json
+info 16:50:6.91: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 16:50:6.104: Process Execution: > /opt/conda/bin/python -m pip list
+> /opt/conda/bin/python -m pip list
+warn 16:50:6.113: StdErr from Kernel Process /opt/conda/bin/python: No module named ipykernel_launcher
+warn 16:50:6.113: StdErr from Kernel Process 
+
+error 16:50:6.118: Disposing kernel process due to an error [o [Error]: The kernel died. Error: /opt/conda/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:513657)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/temp/jupyter/kernels/python3912jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe/kernel.json',
+      interpreterPath: '/opt/conda/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'python3912jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: "Python 3.9.12 ('base')",
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/opt/conda/bin/python',
+      sysPrefix: '/opt/conda',
+      envType: 'Conda',
+      envName: 'base',
+      envPath: [w],
+      architecture: 3,
+      sysVersion: '3.9.12 (main, Apr  5 2022, 06:56:58) \n[GCC 7.5.0]',
+      version: [Object],
+      companyDisplayName: 'Anaconda, Inc.',
+      displayName: "Python 3.9.12 ('base')",
+      detailedDisplayName: "Python 3.9.12 ('base': conda)",
+      uri: [w]
+    },
+    id: '.jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/opt/conda/bin/python: No module named ipykernel_launcher\n'
+}
+error 16:50:6.119: /opt/conda/bin/python: No module named ipykernel_launcher
+
+error 16:50:6.121: Failed to connect raw kernel session: Error: The kernel died. Error: /opt/conda/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+warn 16:50:6.122: Error occurred while trying to start the kernel, options.disableUI=true [o [Error]: The kernel died. Error: /opt/conda/bin/python: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+	at ChildProcess.<anonymous> (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:513657)
+	at ChildProcess.emit (node:events:402:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: {
+      specFile: '/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/temp/jupyter/kernels/python3912jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe/kernel.json',
+      interpreterPath: '/opt/conda/bin/python',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'python3912jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: "Python 3.9.12 ('base')",
+      metadata: [Object],
+      env: {}
+    },
+    interpreter: {
+      id: '/opt/conda/bin/python',
+      sysPrefix: '/opt/conda',
+      envType: 'Conda',
+      envName: 'base',
+      envPath: [w],
+      architecture: 3,
+      sysVersion: '3.9.12 (main, Apr  5 2022, 06:56:58) \n[GCC 7.5.0]',
+      version: [Object],
+      companyDisplayName: 'Anaconda, Inc.',
+      displayName: "Python 3.9.12 ('base')",
+      detailedDisplayName: "Python 3.9.12 ('base': conda)",
+      uri: [w]
+    },
+    id: '.jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/opt/conda/bin/python: No module named ipykernel_launcher\n'
+}
+info 16:50:6.836: Disposing kernel .jvsc74a57bd0d4d1e4263499bec80672ea0156c357c1ee493ec2b1c70f0acce89fc37c4a6abe./opt/conda/python./opt/conda/python.-m#ipykernel_launcher for notebook /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb due to selection of another kernel or closing of the notebook
+info 16:50:6.836: Dispose Kernel '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' associated with '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:50:6.842: Starting Jupyter Session id = 'startUsingPythonInterpreter:.jvsc74a57bd021feddff6a81f78d3f8656c36499382f4bfc95cee52fa0825f4b8cb40c39640b./opt/conda/envs/dali-intrusion-data-analysis/python./opt/conda/envs/dali-intrusion-data-analysis/python.-m#ipykernel_launcher' (Python Path: /opt/conda/envs/dali-intrusion-data-analysis, EnvType: Conda, EnvName: 'dali-intrusion-data-analysis', Version: 3.9.12) for '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' (disableUI=true)
+info 16:50:6.843: Creating raw notebook for resource '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:50:6.843: Computing working directory for resource '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 16:50:6.861: Starting raw kernel 'dali-intrusion-data-analysis (Python 3.9.12)' for interpreter /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 16:50:6.874: Kernel launching with ports 9008,9009,9010,9011,9012. Start port is 9000
+error 16:50:7.142: Failed to get activated environment variables ourselves [Error: Command failed: conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+error 16:50:7.142: Execing shell command, Class name = g, completed in 290ms, has a falsy return value, Arg 1: "~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py", Arg 2: "" [Error: Command failed: conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+info 16:50:7.738: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 16:50:7.791: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m pip list
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m pip list
+info 16:50:7.847: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"1eb4b75b-f3ba-4045-9e10-83f905a1921b" --shell=9010 --transport="tcp" --iopub=9012 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774atkW10VtrU5V.json
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"1eb4b75b-f3ba-4045-9e10-83f905a1921b" --shell=9010 --transport="tcp" --iopub=9012 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774atkW10VtrU5V.json
+info 16:50:7.847: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 16:50:7.854: ipykernel version 6.9.1 for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 16:50:7.854: ipykernel location /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+warn 16:50:8.164: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 16:50:8.164: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '1eb4b75b-f3ba-4045-9e10-83f905a1921b' instead of 'b"1eb4b75b-f3ba-4045-9e10-83f905a1921b"'.
+  warn(
+
+info 16:50:8.169: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-4774atkW10VtrU5V.json
+
+info 16:50:8.208: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:50:8.263: Started kernel dali-intrusion-data-analysis (Python 3.9.12)., (Raw session started and connected)
+info 16:50:8.263: Finished connecting 75c3d10e-395b-4039-b3a7-8694eb5e3a9d
+info 16:50:8.265: UpdateWorkingDirectoryAndPath in Kernel
+info 16:50:8.265: Executing silently Code (idle) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in
+info 16:50:8.359: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in with 1 output(s)
+info 16:50:8.359: Waiting for idle on (kernel): bed84f5b-42ff-491f-909a-b2b100a868aa -> idle
+info 16:50:8.359: Finished waiting for idle on (kernel): bed84f5b-42ff-491f-909a-b2b100a868aa -> idle
+info 16:50:8.367: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 16:50:8.369: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 16:50:8.371: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 16:50:8.371: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 16:50:8.371: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 16:50:8.379: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 16:50:8.379: Widget Message: data-base-url set to https://file%2B.vscode-resource.vscode-cdn.net/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/tmp/scripts/0237bae6c201de14c3e173d460836e0f0afd27b4c7428f713c9ae4fa3d3adae7/jupyter
+info 16:50:9.251: Cancel all remaining cells true || Error || undefined
+info 16:50:9.251: Cancel pending cells
+info 16:50:9.251: Cell 2 executed with state Error
+info 16:50:39.438: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:50:39.472: Cell 2 executed with state Success
+info 16:50:42.89: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:50:42.129: Cancel all remaining cells true || Error || undefined
+info 16:50:42.129: Cancel pending cells
+info 16:50:42.129: Cell 3 executed with state Error
+info 16:51:8.442: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:51:8.468: Cell 2 executed with state Success
+info 16:51:10.156: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:51:10.186: Cell 3 executed with state Success
+info 16:51:15.757: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:51:15.786: Cell 3 executed with state Success
+info 16:51:22.912: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:51:22.956: Cancel all remaining cells true || Error || undefined
+info 16:51:22.956: Cancel pending cells
+info 16:51:22.956: Cell 3 executed with state Error
+info 16:51:52.988: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:51:53.32: Cell 3 executed with state Success
+info 16:52:1.727: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:52:1.752: Cell 3 executed with state Success
+info 16:52:12.0: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:52:12.32: Cell 3 executed with state Success
+info 16:52:20.686: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:52:20.724: Cell 3 executed with state Success
+info 16:52:51.652: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:52:51.688: Cell 2 executed with state Success
+info 16:52:54.619: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:52:54.649: Cell 3 executed with state Success
+info 16:53:7.629: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:53:7.661: Cell 3 executed with state Success
+info 16:53:10.461: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:53:10.509: Cancel all remaining cells true || Error || undefined
+info 16:53:10.509: Cancel pending cells
+info 16:53:10.509: Cell 3 executed with state Error
+info 16:53:21.786: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:53:21.822: Cell 3 executed with state Success
+info 16:58:29.25: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:58:29.56: Cancel all remaining cells true || Error || undefined
+info 16:58:29.56: Cancel pending cells
+info 16:58:29.56: Cell 3 executed with state Error
+info 16:58:40.21: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:58:40.50: Cancel all remaining cells true || Error || undefined
+info 16:58:40.50: Cancel pending cells
+info 16:58:40.50: Cell 3 executed with state Error
+info 16:58:53.447: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:58:53.475: Cell 3 executed with state Success
+info 16:59:6.112: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:59:6.167: Cancel all remaining cells true || Error || undefined
+info 16:59:6.167: Cancel pending cells
+info 16:59:6.167: Cell 3 executed with state Error
+info 16:59:18.217: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:59:18.239: Cell 2 executed with state Success
+info 16:59:20.431: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:59:20.474: Cancel all remaining cells true || Error || undefined
+info 16:59:20.474: Cancel pending cells
+info 16:59:20.475: Cell 3 executed with state Error
+info 16:59:30.275: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:59:30.564: Cancel all remaining cells true || Error || undefined
+info 16:59:30.564: Cancel pending cells
+info 16:59:30.564: Cell 3 executed with state Error
+info 16:59:43.971: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 16:59:44.290: Cell 3 executed with state Success
+info 17:0:18.817: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:0:19.100: Cancel all remaining cells true || Error || undefined
+info 17:0:19.100: Cancel pending cells
+info 17:0:19.100: Cell 3 executed with state Error
+info 17:1:51.494: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:1:51.783: Cancel all remaining cells true || Error || undefined
+info 17:1:51.783: Cancel pending cells
+info 17:1:51.783: Cell 3 executed with state Error
+info 17:2:0.641: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:2:0.946: Cancel all remaining cells true || Error || undefined
+info 17:2:0.946: Cancel pending cells
+info 17:2:0.946: Cell 3 executed with state Error
+info 17:2:40.400: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:2:40.712: Cancel all remaining cells true || Error || undefined
+info 17:2:40.712: Cancel pending cells
+info 17:2:40.712: Cell 3 executed with state Error
+info 17:3:0.404: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:3:0.693: Cancel all remaining cells true || Error || undefined
+info 17:3:0.693: Cancel pending cells
+info 17:3:0.693: Cell 3 executed with state Error
+info 17:3:16.388: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:3:16.703: Cancel all remaining cells true || Error || undefined
+info 17:3:16.703: Cancel pending cells
+info 17:3:16.703: Cell 3 executed with state Error
+info 17:3:22.491: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:3:22.768: Cancel all remaining cells true || Error || undefined
+info 17:3:22.768: Cancel pending cells
+info 17:3:22.768: Cell 3 executed with state Error
+info 17:3:46.172: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:3:46.465: Cancel all remaining cells true || Error || undefined
+info 17:3:46.465: Cancel pending cells
+info 17:3:46.466: Cell 3 executed with state Error
+info 17:4:2.923: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:4:3.359: Cancel all remaining cells true || Error || undefined
+info 17:4:3.359: Cancel pending cells
+info 17:4:3.359: Cell 3 executed with state Error
+info 17:4:47.558: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:4:47.868: Cell 3 executed with state Success
+info 17:5:35.389: Process Execution: > /bin/python -c "import pkgutil;import json;print("389a87b7-288f-4235-92bf-73bf19bf6491");print(json.dumps(list([x.name for x in pkgutil.iter_modules()])));print("389a87b7-288f-4235-92bf-73bf19bf6491");"
+> /bin/python -c "import pkgutil;import json;print("389a87b7-288f-4235-92bf-73bf19bf6491");print(json.dumps(list([x.name for x in pkgutil.iter_modules()])));print("389a87b7-288f-4235-92bf-73bf19bf6491");"
+info 17:5:58.127: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:5:58.458: Cell 3 executed with state Success
+info 17:6:55.811: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:6:55.871: Cancel all remaining cells true || Error || undefined
+info 17:6:55.871: Cancel pending cells
+info 17:6:55.872: Cell 3 executed with state Error
+info 17:7:6.59: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:7:6.407: Cancel all remaining cells true || Error || undefined
+info 17:7:6.407: Cancel pending cells
+info 17:7:6.407: Cell 3 executed with state Error
+info 17:7:21.558: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:7:42.524: Cell 3 executed with state Success
+info 17:9:2.909: Restart requested file:///home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:2.910: Restart kernel execution
+info 17:9:2.910: Cancel pending cells
+info 17:9:2.910: Restarting bed84f5b-42ff-491f-909a-b2b100a868aa
+info 17:9:2.910: Starting raw kernel 'dali-intrusion-data-analysis (Python 3.9.12)' for interpreter /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:9:2.924: Kernel launching with ports 9013,9014,9015,9016,9017. Start port is 9000
+error 17:9:3.130: Failed to get activated environment variables ourselves [Error: Command failed: conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+error 17:9:3.131: Execing shell command, Class name = g, completed in 219ms, has a falsy return value, Arg 1: "~/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py", Arg 2: "" [Error: Command failed: conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+
+	at ChildProcess.exithandler (node:child_process:406:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)] {
+  killed: false,
+  code: 1,
+  signal: null,
+  cmd: "conda activate dali-intrusion-data-analysis && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/pythonFiles/printEnvVariables.py"
+}
+info 17:9:3.753: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:9:3.780: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9016 --control=9014 --hb=9013 --Session.signature_scheme="hmac-sha256" --Session.key=b"434c1975-b331-4886-a1e8-617b28580a38" --shell=9015 --transport="tcp" --iopub=9017 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774IJTQcrpudxkx.json
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9016 --control=9014 --hb=9013 --Session.signature_scheme="hmac-sha256" --Session.key=b"434c1975-b331-4886-a1e8-617b28580a38" --shell=9015 --transport="tcp" --iopub=9017 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774IJTQcrpudxkx.json
+info 17:9:3.781: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 17:9:3.821: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 4 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 5 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 7 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 8 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 10 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 11 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.821: Execute Cell 12 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:3.888: ipykernel version 6.9.1 for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:9:3.888: ipykernel location /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+warn 17:9:4.138: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 17:9:4.138: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '434c1975-b331-4886-a1e8-617b28580a38' instead of 'b"434c1975-b331-4886-a1e8-617b28580a38"'.
+  warn(
+
+info 17:9:4.144: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-4774IJTQcrpudxkx.json
+
+info 17:9:4.191: Got new session f30962df-3a7b-4f54-ba98-df677955a3a9
+info 17:9:4.191: Started new restart session
+info 17:9:4.193: Executing silently Code (idle) = import sys\nprint(sys.executable)
+info 17:9:4.207: Widget Message: Received IPyWidgetMessages.IPyWidgets_onRestartKernel
+info 17:9:4.215: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 17:9:4.215: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 17:9:4.296: Executing silently Code (completed) = import sys\nprint(sys.executable) with 1 output(s)
+info 17:9:4.297: UpdateWorkingDirectoryAndPath in Kernel
+info 17:9:4.298: Executing silently Code (idle) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in
+info 17:9:4.309: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in with 1 output(s)
+info 17:9:4.309: Waiting for idle on (kernel): f30962df-3a7b-4f54-ba98-df677955a3a9 -> idle
+info 17:9:4.309: Finished waiting for idle on (kernel): f30962df-3a7b-4f54-ba98-df677955a3a9 -> idle
+info 17:9:4.847: Cell 2 executed with state Success
+info 17:9:21.208: Restart requested file:///home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:9:21.208: Restart kernel execution
+info 17:9:21.208: Cancel pending cells
+info 17:9:21.209: Cancel all remaining cells true || Idle || undefined
+info 17:9:21.209: Cancel pending cells
+info 17:9:21.209: Restarting f30962df-3a7b-4f54-ba98-df677955a3a9
+info 17:9:21.209: Starting raw kernel 'dali-intrusion-data-analysis (Python 3.9.12)' for interpreter /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:9:21.210: Cell 3 executed with state Idle
+info 17:9:21.210: Cell 4 executed with state Idle
+info 17:9:21.210: Cell 5 executed with state Idle
+info 17:9:21.210: Cell 7 executed with state Idle
+info 17:9:21.210: Cell 8 executed with state Idle
+info 17:9:21.210: Cell 10 executed with state Idle
+info 17:9:21.210: Cell 11 executed with state Idle
+info 17:9:21.210: Cell 12 executed with state Idle
+info 17:9:21.219: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:9:21.221: Kernel launching with ports 9018,9019,9020,9021,9022. Start port is 9000
+info 17:9:21.236: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9021 --control=9019 --hb=9018 --Session.signature_scheme="hmac-sha256" --Session.key=b"ca24dfd9-66b1-4c53-8ae6-52be552d1ce3" --shell=9020 --transport="tcp" --iopub=9022 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774hktChAc8f4mn.json
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9021 --control=9019 --hb=9018 --Session.signature_scheme="hmac-sha256" --Session.key=b"ca24dfd9-66b1-4c53-8ae6-52be552d1ce3" --shell=9020 --transport="tcp" --iopub=9022 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774hktChAc8f4mn.json
+info 17:9:21.236: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 17:9:21.349: ipykernel version 6.9.1 for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:9:21.350: ipykernel location /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+warn 17:9:21.584: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'ca24dfd9-66b1-4c53-8ae6-52be552d1ce3' instead of 'b"ca24dfd9-66b1-4c53-8ae6-52be552d1ce3"'.
+  warn(
+
+info 17:9:21.590: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-4774hktChAc8f4mn.json
+
+info 17:9:21.651: Got new session 35c939d8-8c16-4718-b3a8-af4b7fd4cbc9
+info 17:9:21.651: Started new restart session
+error 17:9:21.653: Error in waiting for cell to complete [Error: Canceled future for execute_request message before replies were done
+	at t.KernelShellFutureHandler.dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:367871)
+	at /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:386923
+	at Map.forEach (<anonymous>)
+	at y._clearKernelState (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:386908)
+	at y.dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:380390)
+	at /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:534713
+	at t.swallowExceptions (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:7:159103)
+	at dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:534691)
+	at t.RawSession.dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:539633)]
+warn 17:9:21.653: Cell completed with errors {
+  message: 'Canceled future for execute_request message before replies were done'
+}
+info 17:9:21.654: Executing silently Code (idle) = import sys\nprint(sys.executable)
+info 17:9:21.656: Widget Message: Received IPyWidgetMessages.IPyWidgets_onRestartKernel
+info 17:9:21.661: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 17:9:21.661: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 17:9:21.748: Executing silently Code (completed) = import sys\nprint(sys.executable) with 1 output(s)
+info 17:9:21.749: UpdateWorkingDirectoryAndPath in Kernel
+info 17:9:21.749: Executing silently Code (idle) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in
+info 17:9:21.758: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in with 1 output(s)
+info 17:9:21.758: Waiting for idle on (kernel): 35c939d8-8c16-4718-b3a8-af4b7fd4cbc9 -> idle
+info 17:9:21.758: Finished waiting for idle on (kernel): 35c939d8-8c16-4718-b3a8-af4b7fd4cbc9 -> idle
+info 17:12:36.559: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:36.593: Cell 3 executed with state Success
+info 17:12:41.774: Restart requested file:///home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:41.775: Restart kernel execution
+info 17:12:41.775: Cancel pending cells
+info 17:12:41.775: Restarting 35c939d8-8c16-4718-b3a8-af4b7fd4cbc9
+info 17:12:41.775: Starting raw kernel 'dali-intrusion-data-analysis (Python 3.9.12)' for interpreter /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:12:41.788: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:12:41.790: Kernel launching with ports 9023,9024,9025,9026,9027. Start port is 9000
+info 17:12:41.809: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9026 --control=9024 --hb=9023 --Session.signature_scheme="hmac-sha256" --Session.key=b"22030cc8-ba7f-4c02-a74f-aecf0f92cd4e" --shell=9025 --transport="tcp" --iopub=9027 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-47741PbODUTYt3Rk.json
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9026 --control=9024 --hb=9023 --Session.signature_scheme="hmac-sha256" --Session.key=b"22030cc8-ba7f-4c02-a74f-aecf0f92cd4e" --shell=9025 --transport="tcp" --iopub=9027 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-47741PbODUTYt3Rk.json
+info 17:12:41.809: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 17:12:41.902: ipykernel version 6.9.1 for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:12:41.902: ipykernel location /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+warn 17:12:42.133: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '22030cc8-ba7f-4c02-a74f-aecf0f92cd4e' instead of 'b"22030cc8-ba7f-4c02-a74f-aecf0f92cd4e"'.
+  warn(
+
+info 17:12:42.138: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-47741PbODUTYt3Rk.json
+
+info 17:12:42.228: Got new session 905c857a-204b-4dee-aec0-859f54590be4
+info 17:12:42.228: Started new restart session
+info 17:12:42.228: Executing silently Code (idle) = import sys\nprint(sys.executable)
+info 17:12:42.230: Widget Message: Received IPyWidgetMessages.IPyWidgets_onRestartKernel
+info 17:12:42.235: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 17:12:42.235: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 17:12:42.320: Executing silently Code (completed) = import sys\nprint(sys.executable) with 1 output(s)
+info 17:12:42.321: UpdateWorkingDirectoryAndPath in Kernel
+info 17:12:42.321: Executing silently Code (idle) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in
+info 17:12:42.342: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in with 1 output(s)
+info 17:12:42.342: Waiting for idle on (kernel): 905c857a-204b-4dee-aec0-859f54590be4 -> idle
+info 17:12:42.342: Finished waiting for idle on (kernel): 905c857a-204b-4dee-aec0-859f54590be4 -> idle
+info 17:12:43.157: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 4 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 5 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 7 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 8 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 10 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 11 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.157: Execute Cell 12 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:12:43.733: Cell 2 executed with state Success
+info 17:12:43.763: Cell 3 executed with state Success
+info 17:12:44.102: Cancel all remaining cells true || Error || undefined
+info 17:12:44.103: Cancel pending cells
+info 17:12:44.103: Cell 4 executed with state Error
+info 17:12:44.103: Cell 5 executed with state Idle
+info 17:12:44.103: Cell 7 executed with state Idle
+info 17:12:44.103: Cell 8 executed with state Idle
+info 17:12:44.103: Cell 10 executed with state Idle
+info 17:12:44.103: Cell 11 executed with state Idle
+info 17:12:44.103: Cell 12 executed with state Idle
+info 17:13:0.945: Execute Cell 4 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:13:9.528: Execute Cell 5 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:13:13.25: Execute Cell 10 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:13:14.131: Execute Cell 11 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:13:17.394: Execute Cell 12 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:13:18.506: Cancel all remaining cells true || Error || undefined
+info 17:13:18.506: Cancel pending cells
+info 17:13:18.506: Cell 4 executed with state Error
+info 17:13:18.506: Cell 5 executed with state Idle
+info 17:13:18.506: Cell 10 executed with state Idle
+info 17:13:18.506: Cell 11 executed with state Idle
+info 17:13:18.506: Cell 12 executed with state Idle
+info 17:14:8.827: Restart requested file:///home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:8.827: Restart kernel execution
+info 17:14:8.827: Cancel pending cells
+info 17:14:8.827: Restarting 905c857a-204b-4dee-aec0-859f54590be4
+info 17:14:8.827: Starting raw kernel 'dali-intrusion-data-analysis (Python 3.9.12)' for interpreter /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:14:8.837: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:14:8.839: Kernel launching with ports 9028,9029,9030,9031,9032. Start port is 9000
+info 17:14:8.853: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9031 --control=9029 --hb=9028 --Session.signature_scheme="hmac-sha256" --Session.key=b"8c7a77dc-3c25-4b9b-ae36-a68f03faa99d" --shell=9030 --transport="tcp" --iopub=9032 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774MbitW6LVN5e6.json
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9031 --control=9029 --hb=9028 --Session.signature_scheme="hmac-sha256" --Session.key=b"8c7a77dc-3c25-4b9b-ae36-a68f03faa99d" --shell=9030 --transport="tcp" --iopub=9032 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774MbitW6LVN5e6.json
+info 17:14:8.853: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 17:14:8.982: ipykernel version 6.9.1 for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:14:8.982: ipykernel location /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+warn 17:14:9.253: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 17:14:9.253: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '8c7a77dc-3c25-4b9b-ae36-a68f03faa99d' instead of 'b"8c7a77dc-3c25-4b9b-ae36-a68f03faa99d"'.
+  warn(
+
+info 17:14:9.260: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-4774MbitW6LVN5e6.json
+
+info 17:14:9.464: Got new session 29d765ab-cee6-40df-a932-d7b49a809127
+info 17:14:9.464: Started new restart session
+info 17:14:9.465: Executing silently Code (idle) = import sys\nprint(sys.executable)
+info 17:14:9.468: Widget Message: Received IPyWidgetMessages.IPyWidgets_onRestartKernel
+info 17:14:9.468: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 17:14:9.468: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 17:14:9.584: Executing silently Code (completed) = import sys\nprint(sys.executable) with 1 output(s)
+info 17:14:9.584: UpdateWorkingDirectoryAndPath in Kernel
+info 17:14:9.585: Executing silently Code (idle) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in
+info 17:14:9.595: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in with 1 output(s)
+info 17:14:9.595: Waiting for idle on (kernel): 29d765ab-cee6-40df-a932-d7b49a809127 -> idle
+info 17:14:9.595: Finished waiting for idle on (kernel): 29d765ab-cee6-40df-a932-d7b49a809127 -> idle
+info 17:14:9.666: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 4 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 5 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 7 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 8 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 10 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 11 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:9.666: Execute Cell 12 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:14:10.380: Cell 2 executed with state Success
+info 17:14:10.418: Cell 3 executed with state Success
+info 17:14:28.818: Cancel all remaining cells true || Error || undefined
+info 17:14:28.818: Cancel pending cells
+info 17:14:28.818: Cell 4 executed with state Error
+info 17:14:28.818: Cell 5 executed with state Idle
+info 17:14:28.818: Cell 7 executed with state Idle
+info 17:14:28.818: Cell 8 executed with state Idle
+info 17:14:28.818: Cell 10 executed with state Idle
+info 17:14:28.818: Cell 11 executed with state Idle
+info 17:14:28.818: Cell 12 executed with state Idle
+info 17:15:22.69: Execute Cell 4 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:27.106: Restart requested file:///home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:27.107: Restart kernel execution
+info 17:15:27.107: Cancel pending cells
+info 17:15:27.107: Cancel all remaining cells true || Idle || undefined
+info 17:15:27.107: Cancel pending cells
+info 17:15:27.107: Restarting 29d765ab-cee6-40df-a932-d7b49a809127
+info 17:15:27.108: Starting raw kernel 'dali-intrusion-data-analysis (Python 3.9.12)' for interpreter /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:15:27.108: Cell 4 executed with state Idle
+info 17:15:27.120: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:15:27.123: Kernel launching with ports 9033,9034,9035,9036,9037. Start port is 9000
+info 17:15:27.140: Process Execution: > /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9036 --control=9034 --hb=9033 --Session.signature_scheme="hmac-sha256" --Session.key=b"3297f08a-11a1-4f35-9c23-ec95c923f32f" --shell=9035 --transport="tcp" --iopub=9037 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774u36Pji3CgYRU.json
+> /opt/conda/envs/dali-intrusion-data-analysis/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9036 --control=9034 --hb=9033 --Session.signature_scheme="hmac-sha256" --Session.key=b"3297f08a-11a1-4f35-9c23-ec95c923f32f" --shell=9035 --transport="tcp" --iopub=9037 --f=/home/eragon/.local/share/jupyter/runtime/kernel-v2-4774u36Pji3CgYRU.json
+info 17:15:27.140: Process Execution: cwd: ~/repos/fluves/pyiotdataflow/notebooks
+cwd: ~/repos/fluves/pyiotdataflow/notebooks
+info 17:15:27.243: ipykernel version 6.9.1 for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+info 17:15:27.244: ipykernel location /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/ipykernel/__init__.py for /opt/conda/envs/dali-intrusion-data-analysis/bin/python
+warn 17:15:27.474: StdErr from Kernel Process /opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2202: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+/opt/conda/envs/dali-intrusion-data-analysis/lib/python3.9/site-packages/traitlets/traitlets.py:2157: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '3297f08a-11a1-4f35-9c23-ec95c923f32f' instead of 'b"3297f08a-11a1-4f35-9c23-ec95c923f32f"'.
+  warn(
+
+info 17:15:27.479: Kernel Output: NOTE: When using the `ipython kernel` entry point, Ctrl-C will not work.
+
+To exit, you will have to explicitly quit this process, by either sending
+"quit" from a client, or using Ctrl-\ in UNIX-like environments.
+
+To read more about this, see https://github.com/ipython/ipython/issues/2049
+
+
+To connect another client to this kernel, use:
+    --existing kernel-v2-4774u36Pji3CgYRU.json
+
+info 17:15:27.555: Got new session 62a4bdd9-4513-4bbd-bf09-e947e07398ad
+info 17:15:27.555: Started new restart session
+error 17:15:27.556: Error in waiting for cell to complete [Error: Canceled future for execute_request message before replies were done
+	at t.KernelShellFutureHandler.dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:367871)
+	at /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:386923
+	at Map.forEach (<anonymous>)
+	at y._clearKernelState (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:386908)
+	at y.dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:17:380390)
+	at /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:534713
+	at t.swallowExceptions (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:7:159103)
+	at dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:534691)
+	at t.RawSession.dispose (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:539633)]
+warn 17:15:27.556: Cell completed with errors {
+  message: 'Canceled future for execute_request message before replies were done'
+}
+info 17:15:27.556: Executing silently Code (idle) = import sys\nprint(sys.executable)
+info 17:15:27.558: Widget Message: Received IPyWidgetMessages.IPyWidgets_onRestartKernel
+info 17:15:27.560: Widget Message: Received IPyWidgets_kernelOptions in ScriptManager
+info 17:15:27.560: Widget Message: Received IPyWidgetMessages.IPyWidgets_kernelOptions
+info 17:15:27.646: Executing silently Code (completed) = import sys\nprint(sys.executable) with 1 output(s)
+info 17:15:27.647: UpdateWorkingDirectoryAndPath in Kernel
+info 17:15:27.647: Executing silently Code (idle) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in
+info 17:15:27.656: Executing silently Code (completed) = import os\nimport sys\n%cd "//home/eragon/repos/fluves/pyiotdataflow/notebooks"\nif os.getcwd() not in with 1 output(s)
+info 17:15:27.656: Waiting for idle on (kernel): 62a4bdd9-4513-4bbd-bf09-e947e07398ad -> idle
+info 17:15:27.656: Finished waiting for idle on (kernel): 62a4bdd9-4513-4bbd-bf09-e947e07398ad -> idle
+info 17:15:31.212: Execute Cell 2 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 3 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 4 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 5 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 7 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 8 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 10 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 11 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.212: Execute Cell 12 /home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb
+info 17:15:31.946: Cell 2 executed with state Success
+info 17:15:31.996: Cell 3 executed with state Success
+info 17:15:32.431: Cancel all remaining cells true || Error || undefined
+info 17:15:32.431: Cancel pending cells
+info 17:15:32.431: Cell 4 executed with state Error
+info 17:15:32.431: Cell 5 executed with state Idle
+info 17:15:32.431: Cell 7 executed with state Idle
+info 17:15:32.431: Cell 8 executed with state Idle
+info 17:15:32.431: Cell 10 executed with state Idle
+info 17:15:32.431: Cell 11 executed with state Idle
+info 17:15:32.431: Cell 12 executed with state Idle
+info 17:15:49.920: Shutting down notebooks for 75c3d10e-395b-4039-b3a7-8694eb5e3a9d
+info 17:15:49.920: Disposing HostJupyterExecution 28a9621a-29d2-4dba-b709-c1b8e01e2734
+info 17:15:49.920: Disposing super HostJupyterExecution 28a9621a-29d2-4dba-b709-c1b8e01e2734
+info 17:15:49.921: Dispose Kernel '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' associated with '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 17:15:49.921: Dispose Kernel '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' associated with '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 17:15:49.921: Dispose Kernel '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb' associated with '/home/eragon/repos/fluves/pyiotdataflow/notebooks/hydromet.ipynb'
+info 17:15:49.922: Disposing HostJupyterExecution 28a9621a-29d2-4dba-b709-c1b8e01e2734
+info 17:15:49.922: Finished disposing HostJupyterExecution  28a9621a-29d2-4dba-b709-c1b8e01e2734
+info 17:15:49.926: Cleaning up server cache 28a9621a-29d2-4dba-b709-c1b8e01e2734
+info 17:15:49.927: Cancel pending cells
+info 17:15:49.927: Finished disposing HostJupyterExecution  28a9621a-29d2-4dba-b709-c1b8e01e2734
+warn 17:15:49.931: Failed to delete connection file /home/eragon/.local/share/jupyter/runtime/kernel-v2-4774u36Pji3CgYRU.json [Canceled (FileSystemError): Canceled
+	at Function._handleError (/nix/store/pm5ngdc2bmf84vwz0h8fqknk628bxplw-vscodium-1.70.2.22230/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:30174)
+	at Object.stat (/nix/store/pm5ngdc2bmf84vwz0h8fqknk628bxplw-vscodium-1.70.2.22230/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:87:28102)
+	at async f.delete (/home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:7:14834)
+	at async /home/eragon/.vscode-oss/extensions/ms-toolsai.jupyter-2022.8.1002170547/out/extension.node.js:2:515775] {
+  code: 'Unknown'
+}

@@ -1,0 +1,22 @@
+game:
+  args: -no-cef-sandbox -applaunch 620
+  exe: /home/eragon/Games/steamwindows/steam/drive_c/Program Files (x86)/Steam/steam.exe
+  prefix: /home/eragon/Games/steamwindows/steam
+game_slug: portal-2
+name: Portal 2
+requires: steam-wine
+script:
+  game:
+    args: -no-cef-sandbox -applaunch 620
+    exe: /home/eragon/Games/steamwindows/steam/drive_c/Program Files (x86)/Steam/steam.exe
+    prefix: /home/eragon/Games/steamwindows/steam
+  requires: steam-wine
+service: steamwindows
+service_id: '620'
+slug: portal-2-steamwindows
+system: {}
+variables: {}
+version: Steam for Windows
+wine:
+  version: lutris-GE-Proton7-26-x86_64
+year: null
