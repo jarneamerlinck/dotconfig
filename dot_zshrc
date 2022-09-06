@@ -133,7 +133,7 @@ bindkey '^[[Z' undo                               # shift + tab undo last action
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
-export PATH=$PATH":/home/eragon/.var/app/com.visualstudio.code/data/node_modules/bin:/home/eragon/.local/bin"
+export PATH=$PATH":/home/eragon/.local/bin"
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/opt/conda/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
@@ -163,3 +163,4 @@ export EDITOR='vim'
 #[[ $commands[tmux] ]]   && source <(tmux completion zsh)
 [[ $commands[chezmoi] ]] && source <(chezmoi completion zsh)
 [[ $commands[kubectl] ]] && source <(kubectl completion zsh)
+

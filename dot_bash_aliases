@@ -4,7 +4,7 @@ alias l='ls -CF'
 
 alias overview='tmux attach -t overview'
 alias upgrade='sudo apt update;sudo apt upgrade'
-alias attach='cd /home/eragon/Documents/WD-Decryption;sudo sh drive.sh;cd -'
+alias attach='cd ~/Documents/WD-Decryption;sudo sh drive.sh;cd -'
 alias curDir='echo "${PWD##*/}"'
 alias iot_usb='gnome-terminal -e "tio /dev/ttyACM0 -b 9600"'
 
